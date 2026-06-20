@@ -1,0 +1,977 @@
+Order,Date of Report,Sex,Sex act,Age (years),Nationality,Province of onset ,shapeISO for province of onset,Date of onset,Province of treatment,shapeISO for  province of treatment,Clade
+1,7/16/2022,Male,Hetero,27,Nigeria,Phuket,TH-83,9/7/2022,Phuket,TH-83,Clade II
+2,7/27/2022,Male,MSM,47,Thai,Bangkok,TH-10,14/7/2022,Bangkok,TH-10,Clade II
+3,8/2/2022,Male,Hetero,25,Germany,Phuket,TH-83,24/7/2022,Phuket,TH-83,Clade II
+4,8/4/2022,Female,Hetero,22,Thai,Samut Prakan†,TH-11,29/7/2022,Samut Prakan†,TH-11,Clade II
+5,8/14/2022,Female,Hetero,25,Thai,Samut Prakan†,TH-11,3/8/2022,Nonthaburi,TH-12,Clade II
+6,8/14/2022,Female,Hetero,21,Thai,Maha Sarakham,TH-44,10/8/2022,Maha Sarakham,TH-44,Clade II
+7,8/14/2022,Female,Hetero,37,Thai,Bangkok,TH-10,20/8/2022,Maha Sarakham,TH-44,Clade II
+8,9/14/2022,Male,MSM,23,Thai,Bangkok,TH-10,8/9/2022,Maha Sarakham,TH-44,Clade II
+9,9/25/2022,Female,Hetero,37,Thai,Phuket,TH-83,16/9/2022,Phuket,TH-83,Clade II
+10,9/29/2022,Male,Hetero,54,Germany,Phuket,TH-83,24/9/2022,Phuket,TH-83,Clade II
+11,10/16/2022,Male,MSM,40,Thai,Pathum Thani†,TH-13,8/10/2022,Nonthaburi,TH-12,Clade II
+12,10/20/2022,Male,Hetero,25,Oman,Phuket,TH-83,11/10/2022,Phuket,TH-83,Clade II
+13,12/15/2022,Male,Hetero,39,Thai,Pathum Thani†,TH-13,5/12/2022,Bangkok,TH-10,Clade II
+14,12/16/2022,Female,Hetero,26,Thai,Pathum Thani†,TH-13,1/12/2022,Bangkok,TH-10,Clade II
+15,1/19/2023,Female,Hetero,37,Thai,Bangkok,TH-10,14/1/2023,Bangkok,TH-10,Clade II
+16,3/11/2023,Male,MSM,40,Thai,Bangkok,TH-10,5/3/2023,Nonthaburi,TH-12,Clade II
+17,3/19/2023,Male,MSM,39,Japan,Bangkok,TH-10,13/3/2023,Nonthaburi,TH-12,Clade II
+18,3/20/2023,Male,MSM,27,Thai,Bangkok,TH-10,12/3/2023,Nonthaburi,TH-12,Clade II
+19,4/1/2023,Male,MSM,44,Thai,Bangkok,TH-10,24/3/2023,Bangkok,TH-10,Clade II
+20,4/19/2023,Male,MSM,26,Thai,Bangkok,TH-10,13/4/2023,Bangkok,TH-10,Clade II
+21,4/23/2023,Male,MSM,33,Thai,Bangkok,TH-10,6/4/2023,Nonthaburi,TH-12,Clade II
+22,5/1/2023,Male,MSM,37,Thai,Nakhon Ratchasima,TH-30,22/4/2023,Nakhon Ratchasima,TH-30,Clade II
+23,5/2/2023,Male,MSM,41,Thai,Bangkok,TH-10,25/4/2023,Bangkok,TH-10,Clade II
+24,5/3/2023,Male,MSM,53,Thai,Bangkok,TH-10,28/4/2023,Bangkok,TH-10,Clade II
+25,5/9/2023,Male,MSM,36,Thai,Bangkok,TH-10,1/5/2023,Bangkok,TH-10,Clade II
+26,5/10/2023,Male,MSM,52,Thai,Bangkok,TH-10,3/5/2023,Bangkok,TH-10,Clade II
+27,5/12/2023,Male,MSM,27,Indonesia,Bangkok,TH-10,6/5/2023,Bangkok,TH-10,Clade II
+28,5/13/2023,Male,MSM,40,Thai,Bangkok,TH-10,8/5/2023,Bangkok,TH-10,Clade II
+29,5/15/2023,Male,MSM,39,Thai,Bangkok,TH-10,15/5/2023,Bangkok,TH-10,Clade II
+30,5/15/2023,Male,MSM,39,Chinese,Bangkok,TH-10,11/5/2023,Bangkok,TH-10,Clade II
+31,5/15/2023,Male,MSM,25,Thai,Nonthaburi,TH-12,6/5/2023,Bangkok,TH-10,Clade II
+32,5/19/2023,Male,MSM,42,Thai,Bangkok,TH-10,11/5/2023,Bangkok,TH-10,Clade II
+33,5/19/2023,Female,Hetero,62,Thai,Nonthaburi,TH-12,17/5/2023,Nonthaburi,TH-12,Clade II
+34,5/22/2023,Male,MSM,48,Thai,Bangkok,TH-10,11/5/2023,Bangkok,TH-10,Clade II
+35,5/22/2023,Male,MSM,31,Thai,Bangkok,TH-10,19/5/2023,Bangkok,TH-10,Clade II
+36,5/22/2023,Male,MSM,34,Thai,Bangkok,TH-10,15/5/2023,Bangkok,TH-10,Clade II
+37,5/23/2023,Male,MSM,25,Thai,Samut Sakhon,TH-74,10/5/2023,Bangkok,TH-10,Clade II
+38,5/25/2023,Male,MSM,37,Thai,Bangkok,TH-10,20/5/2023,Bangkok,TH-10,Clade II
+39,5/25/2023,Male,MSM,58,American,Bangkok,TH-10,9/5/2023,Bangkok,TH-10,Clade II
+40,5/30/2023,Male,MSM,36,American,Nonthaburi,TH-12,23/5/2023,Bangkok,TH-10,Clade II
+41,5/31/2023,Male,MSM,43,Thai,Bangkok,TH-10,25/5/2023,Nonthaburi,TH-12,Clade II
+42,5/31/2023,Male,MSM,33,Thai,Bangkok,TH-10,18/5/2023,Bangkok,TH-10,Clade II
+43,5/31/2023,Male,MSM,33,Myanmar,Bangkok,TH-10,27/5/2023,Bangkok,TH-10,Clade II
+44,6/1/2023,Male,MSM,42,Thai,Bangkok,TH-10,29/5/2023,Bangkok,TH-10,Clade II
+45,6/1/2023,Male,MSM,34,Thai,Bangkok,TH-10,18/5/2023,Bangkok,TH-10,Clade II
+46,6/2/2023,Male,MSM,53,Thai,Bangkok,TH-10,26/5/2023,Bangkok,TH-10,Clade II
+47,6/3/2023,Male,NA,33,Filipino,Bangkok,TH-10,26/5/2023,Bangkok,TH-10,Clade II
+48,6/3/2023,Male,MSM,38,Thai,Nonthaburi,TH-12,31/5/2023,Bangkok,TH-10,Clade II
+49,6/7/2023,Male,MSM,45,Thai,Bangkok,TH-10,1/6/2023,Bangkok,TH-10,Clade II
+50,6/9/2023,Male,MSM,30,Thai,Bangkok,TH-10,5/6/2023,Bangkok,TH-10,Clade II
+51,6/9/2023,Male,MSM,30,Thai,Bangkok,TH-10,28/5/2023,Nonthaburi,TH-12,Clade II
+52,6/12/2023,Male,MSM,44,Thai,Bangkok,TH-10,6/6/2023,Bangkok,TH-10,Clade II
+53,6/14/2023,Male,MSM,20,Thai,Bangkok,TH-10,5/6/2023,Bangkok,TH-10,Clade II
+54,6/14/2023,Male,MSM,39,Thai,Chonburi,TH-20,9/6/2023,Chonburi,TH-20,Clade II
+55,6/14/2023,Male,MSM,29,Thai,Nonthaburi,TH-12,7/6/2023,Nonthaburi,TH-12,Clade II
+56,6/15/2023,Male,MSM,55,Swiss,Phuket,TH-83,2/6/2023,Phuket,TH-83,Clade II
+57,6/16/2023,Male,MSM,35,Thai,Bangkok,TH-10,7/6/2023,Bangkok,TH-10,Clade II
+58,6/16/2023,Male,MSM,22,Thai,Bangkok,TH-10,14/6/2023,Bangkok,TH-10,Clade II
+59,6/16/2023,Male,Gay,32,Thai,Bangkok,TH-10,9/6/2023,Bangkok,TH-10,Clade II
+60,6/17/2023,Male,MSM,43,American,Bangkok,TH-10,13/6/2023,Bangkok,TH-10,Clade II
+61,6/19/2023,Male,NA,31,Thai,Bangkok,TH-10,1/6/2023,Bangkok,TH-10,Clade II
+62,6/19/2023,Male,MSM,40,Thai,Bangkok,TH-10,8/6/2023,Bangkok,TH-10,Clade II
+63,6/19/2023,Male,MSM,36,Thai,Samut Prakan†,TH-11,20/5/2023,Bangkok,TH-10,Clade II
+64,6/19/2023,Male,MSM,41,Chinese,Bangkok,TH-10,18/6/2023,Bangkok,TH-10,Clade II
+65,6/19/2023,Male,MSM,25,Thai,Bangkok,TH-10,11/6/2023,Bangkok,TH-10,Clade II
+66,6/19/2023,Male,MSM,26,Chinese,Bangkok,TH-10,17/6/2023,Bangkok,TH-10,Clade II
+67,6/20/2023,Male,MSM,34,Thai,Bangkok,TH-10,16/6/2023,Bangkok,TH-10,Clade II
+68,6/20/2023,Male,MSM,42,Thai,Bangkok,TH-10,14/6/2023,Bangkok,TH-10,Clade II
+69,6/21/2023,Male,MSM,41,Thai,Bangkok,TH-10,16/6/2023,Bangkok,TH-10,Clade II
+70,6/22/2023,Male,MSM,21,Thai,Chonburi,TH-20,18/6/2023,Chonburi,TH-20,Clade II
+71,6/22/2023,Male,MSM,33,Thai,Bangkok,TH-10,17/6/2023,Bangkok,TH-10,Clade II
+72,6/22/2023,Male,MSM,33,Thai,Bangkok,TH-10,15/6/2023,Bangkok,TH-10,Clade II
+73,6/22/2023,Male,MSM,33,Chinese,Bangkok,TH-10,15/6/2023,Bangkok,TH-10,Clade II
+74,6/22/2023,Male,MSM,26,Thai,Samut Sakhon,TH-74,12/6/2023,Bangkok,TH-10,Clade II
+75,6/22/2023,Male,MSM,64,Thai,Bangkok,TH-10,14/6/2023,Bangkok,TH-10,Clade II
+76,6/22/2023,Male,MSM,39,Thai,Bangkok,TH-10,20/6/2023,Bangkok,TH-10,Clade II
+77,6/22/2023,Male,MSM,47,Thai,Bangkok,TH-10,15/6/2023,Bangkok,TH-10,Clade II
+78,6/24/2023,Male,MSM,31,Thai,Bangkok,TH-10,12/6/2023,Bangkok,TH-10,Clade II
+79,6/24/2023,Male,MSM,27,Thai,Samut Prakan†,TH-11,19/6/2023,Pathum Thani†,TH-13,Clade II
+80,6/25/2023,Male,MSM,40,Thai,Bangkok,TH-10,20/6/2023,Bangkok,TH-10,Clade II
+81,6/27/2023,Male,MSM,29,Thai,Bangkok,TH-10,15/6/2023,Bangkok,TH-10,Clade II
+82,6/27/2023,Male,NA,38,Thai,Samut Prakan†,TH-11,10/6/2023,Bangkok,TH-10,Clade II
+83,6/28/2023,Male,MSM,41,Thai,Bangkok,TH-10,19/6/2023,Bangkok,TH-10,Clade II
+84,6/28/2023,Male,NA,38,Thai,Bangkok,TH-10,21/6/2023,Bangkok,TH-10,Clade II
+85,6/28/2023,Male,NA,36,Thai,Bangkok,TH-10,23/6/2023,Nonthaburi,TH-12,Clade II
+86,6/29/2023,Male,MSM,32,Thai,Bangkok,TH-10,22/6/2023,Bangkok,TH-10,Clade II
+87,6/30/2023,Male,MSM,33,Vietnam,Bangkok,TH-10,21/6/2023,Bangkok,TH-10,Clade II
+88,6/30/2023,Male,NA,33,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+89,6/30/2023,Male,MSM,39,Thai,Bangkok,TH-10,15/6/2023,Bangkok,TH-10,Clade II
+90,6/17/2023,Male,Hetero,36,Thai,Bangkok,TH-10,26/6/2023,Bangkok,TH-10,Clade II
+91,6/30/2023,Male,MSM,46,Thai,Pathum Thani†,TH-13,13/6/2023,Pathum Thani†,TH-13,Clade II
+92,7/1/2023,Male,MSM,34,Finland,Bangkok,TH-10,20/6/2023,Bangkok,TH-10,Clade II
+93,7/1/2023,Male,MSM,41,Thai,Bangkok,TH-10,19/6/2023,Bangkok,TH-10,Clade II
+94,7/2/2023,Male,MSM,28,Thai,Bangkok,TH-10,26/6/2023,Bangkok,TH-10,Clade II
+95,7/2/2023,Male,MSM,23,Chinese,Bangkok,TH-10,23/6/2023,Bangkok,TH-10,Clade II
+96,7/2/2023,Male,NA,39,Thai,Bangkok,TH-10,20/6/2023,Bangkok,TH-10,Clade II
+97,7/2/2023,Male,MSM,37,Thai,Bangkok,TH-10,20/6/2023,Bangkok,TH-10,Clade II
+98,7/2/2023,Male,MSM,27,Thai,Bangkok,TH-10,18/6/2023,Bangkok,TH-10,Clade II
+99,7/2/2023,Male,MSM,37,Thai,Bangkok,TH-10,18/6/2023,Bangkok,TH-10,Clade II
+100,7/3/2023,Male,MSM,39,Thai,Nonthaburi,TH-12,24/6/2023,Bangkok,TH-10,Clade II
+101,7/4/2023,Male,MSM,30,Thai,Bangkok,TH-10,30/6/2023,Bangkok,TH-10,Clade II
+102,7/4/2023,Male,MSM,41,Laos,Bangkok,TH-10,26/6/2023,Bangkok,TH-10,Clade II
+103,7/4/2023,Male,MSM,30,Thai,Bangkok,TH-10,26/6/2023,Bangkok,TH-10,Clade II
+104,7/4/2023,Male,MSM,39,Thai,Bangkok,TH-10,23/6/2023,Bangkok,TH-10,Clade II
+105,7/4/2023,Male,MSM,36,Thai,Lopburi,TH-16,2/7/2023,Lopburi,TH-16,Clade II
+106,7/4/2023,Male,MSM,40,Thai,Lopburi,TH-16,24/6/2023,Lopburi,TH-16,Clade II
+107,7/5/2023,Male,MSM,33,Thai,Bangkok,TH-10,25/6/2023,Bangkok,TH-10,Clade II
+108,7/5/2023,Male,MSM,52,Thai,Nonthaburi,TH-12,29/6/2023,Bangkok,TH-10,Clade II
+109,7/5/2023,Male,MSM,40,Thai,Bangkok,TH-10,28/6/2023,Pathum Thani†,TH-13,Clade II
+110,7/5/2023,Male,MSM,42,Thai,Bangkok,TH-10,2/7/2023,Bangkok,TH-10,Clade II
+111,7/5/2023,Male,MSM,36,Thai,Samut Prakan†,TH-11,28/6/2023,Samut Prakan†,TH-11,Clade II
+112,7/6/2023,Male,Hetero,28,Thai,Bangkok,TH-10,27/6/2023,Bangkok,TH-10,Clade II
+113,7/7/2023,Male,MSM,29,Thai,Pathum Thani†,TH-13,1/7/2023,Pathum Thani†,TH-13,Clade II
+114,7/9/2023,Male,MSM,28,Chinese,Bangkok,TH-10,1/7/2023,Bangkok,TH-10,Clade II
+115,7/9/2023,Male,NA,33,Thai,Bangkok,TH-10,NA,Bangkok,TH-10,Clade II
+116,7/10/2023,Male,NA,45,Thai,Bangkok,TH-10,2/7/2023,Kalasin,TH-46,Clade II
+117,7/11/2023,Male,NA,41,Thai,Bangkok,TH-10,1/7/2023,Bangkok,TH-10,Clade II
+118,7/11/2023,Male,MSM,26,Thai,Bangkok,TH-10,9/7/2023,Bangkok,TH-10,Clade II
+119,7/11/2023,Male,MSM,27,Thai,Bangkok,TH-10,7/7/2023,Bangkok,TH-10,Clade II
+120,7/11/2023,Male,MSM,20,Thai,Maha Sarakham,TH-44,7/7/2023,Maha Sarakham,TH-44,Clade II
+121,7/12/2023,Male,MSM,48,Thai,Bangkok,TH-10,7/7/2023,Nonthaburi,TH-12,Clade II
+122,7/13/2023,Male,MSM,30,Thai,Bangkok,TH-10,4/7/2023,Bangkok,TH-10,Clade II
+123,7/13/2023,Male,MSM,35,Thai,Bangkok,TH-10,4/7/2023,Bangkok,TH-10,Clade II
+124,7/13/2023,Male,MSM,34,Thai,Chonburi,TH-20,3/7/2023,Chonburi,TH-20,Clade II
+125,7/14/2023,Male,MSM,31,Thai,Bangkok,TH-10,6/7/2023,Bangkok,TH-10,Clade II
+126,7/16/2023,Male,MSM,43,Thai,Bangkok,TH-10,7/7/2023,Bangkok,TH-10,Clade II
+127,7/16/2023,Male,MSM,28,Thai,Bangkok,TH-10,12/7/2023,Bangkok,TH-10,Clade II
+128,7/16/2023,Female,Hetero,27,Thai,Phuket,TH-83,7/7/2023,Phuket,TH-83,Clade II
+129,7/17/2023,Male,MSM,30,Thai,Bangkok,TH-10,10/7/2023,Bangkok,TH-10,Clade II
+130,7/18/2023,Male,MSM,39,Thai,Kalasin,TH-46,8/7/2023,Kalasin,TH-46,Clade II
+131,7/18/2023,Male,MSM,28,Thai,Bangkok,TH-10,8/7/2023,Bangkok,TH-10,Clade II
+132,7/18/2023,Male,MSM,31,Thai,Bangkok,TH-10,13/7/2023,Bangkok,TH-10,Clade II
+133,7/18/2023,Male,MSM,31,Russian,Bangkok,TH-10,11/7/2023,Bangkok,TH-10,Clade II
+134,7/18/2023,Male,MSM,28,Thai,Chonburi,TH-20,13/7/2023,Chonburi,TH-20,Clade II
+135,7/19/2023,Male,MSM,27,Filipino,Bangkok,TH-10,1/7/2023,Bangkok,TH-10,Clade II
+136,7/19/2023,Male,MSM,39,Cambodia,Chonburi,TH-20,12/7/2023,Chonburi,TH-20,Clade II
+137,7/20/2023,Male,MSM,47,Thai,Rayong,TH-21,12/7/2023,Rayong,TH-21,Clade II
+138,7/21/2023,Male,MSM,33,Thai,Bangkok,TH-10,4/7/2023,Bangkok,TH-10,Clade II
+139,7/21/2023,Male,MSM,33,Thai,Bangkok,TH-10,16/7/2023,Bangkok,TH-10,Clade II
+140,7/21/2023,Male,MSM,28,Thai,Bangkok,TH-10,8/7/2023,Bangkok,TH-10,Clade II
+141,7/21/2023,Male,MSM,39,Thai,Bangkok,TH-10,15/7/2023,Bangkok,TH-10,Clade II
+142,7/21/2023,Male,MSM,36,Thai,Chonburi,TH-20,18/7/2023,Chonburi,TH-20,Clade II
+143,7/23/2023,Male,MSM,29,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+144,7/23/2023,Male,MSM,43,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+145,7/23/2023,Male,MSM,46,Thai,Chonburi,TH-20,5/7/2023,Chonburi,TH-20,Clade II
+146,7/23/2023,Male,MSM,32,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+147,7/23/2023,Male,MSM,41,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+148,7/23/2023,Male,MSM,25,Thai,Chachoengsao,TH-24,20/7/2023,Chachoengsao,TH-24,Clade II
+149,7/24/2023,Male,MSM,30,Thai,Samut Prakan†,TH-11,13/7/2023,Chachoengsao,TH-24,Clade II
+150,7/24/2023,Male,MSM,36,Thai,Chonburi,TH-20,13/7/2023,Chonburi,TH-20,Clade II
+151,7/24/2023,Male,MSM,33,Chinese,Bangkok,TH-10,17/7/2023,Nonthaburi,TH-12,Clade II
+152,7/25/2023,Male,MSM,35,Thai,Nonthaburi,TH-12,17/7/2023,Nonthaburi,TH-12,Clade II
+153,7/25/2023,Male,MSM,43,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+154,7/25/2023,Male,MSM,28,Thai,Bangkok,TH-10,11/7/2023,Bangkok,TH-10,Clade II
+155,7/25/2023,Male,MSM,39,Thai,Bangkok,TH-10,17/7/2023,Bangkok,TH-10,Clade II
+156,7/26/2023,Male,NA,39,Thai,Chonburi,TH-20,17/7/2023,Chonburi,TH-20,Clade II
+157,7/26/2023,Male,MSM,29,Thai,Bangkok,TH-10,14/7/2023,Bangkok,TH-10,Clade II
+158,7/27/2023,Male,MSM,41,Thai,Suphan Buri,TH-72,15/7/2023,Suphan Buri,TH-72,Clade II
+159,7/27/2023,Male,MSM,34,Thai,Pathum Thani†,TH-13,21/7/2023,Bangkok,TH-10,Clade II
+160,7/27/2023,Male,NA,23,Thai,Bangkok,TH-10,18/7/2023,Bangkok,TH-10,Clade II
+161,7/27/2023,Male,MSM,39,Thai,Bangkok,TH-10,19/7/2023,Bangkok,TH-10,Clade II
+162,7/27/2023,Male,MSM,21,Thai,Khon Kaen,TH-40,24/7/2023,Khon Kaen,TH-40,Clade II
+163,7/28/2023,Male,MSM,22,Thai,Nonthaburi,TH-12,23/7/2023,Nonthaburi,TH-12,Clade II
+164,7/28/2023,Male,MSM,40,Thai,Bangkok,TH-10,21/7/2023,Bangkok,TH-10,Clade II
+165,7/28/2023,Male,Hetero,43,Thai,Bangkok,TH-10,24/7/2023,Bangkok,TH-10,Clade II
+166,7/28/2023,Male,MSM,29,Thai,Bangkok,TH-10,20/7/2023,Bangkok,TH-10,Clade II
+167,7/28/2023,Male,MSM,27,Thai,Nakhon Nayok,TH-26,20/7/2023,Nonthaburi,TH-12,Clade II
+168,7/29/2023,Male,MSM,27,Thai,Bangkok,TH-10,24/7/2023,Bangkok,TH-10,Clade II
+169,7/29/2023,Male,MSM,24,Laos,Bangkok,TH-10,22/7/2023,Bangkok,TH-10,Clade II
+170,7/31/2023,Male,MSM,32,Thai,Khon Kaen,TH-40,25/7/2023,Khon Kaen,TH-40,Clade II
+171,8/2/2023,Male,MSM,34,Thai,Bangkok,TH-10,27/7/2023,Bangkok,TH-10,Clade II
+172,8/1/2023,Male,MSM,27,Thai,Chonburi,TH-20,23/7/2023,Chonburi,TH-20,Clade II
+173,8/4/2023,Male,MSM,36,Thai,Phayao,TH-56,22/7/2023,Phrae,TH-54,Clade II
+174,8/4/2023,Male,MSM,37,Thai,Bangkok,TH-10,27/7/2023,Khon Kaen,TH-40,Clade II
+175,8/4/2023,Male,MSM,31,Thai,Nonthaburi,TH-12,30/7/2023,Nonthaburi,TH-12,Clade II
+176,8/4/2023,Male,MSM,37,Thai,Samut Prakan†,TH-11,25/7/2023,Samut Prakan†,TH-11,Clade II
+177,8/5/2023,Male,MSM,33,Thai,Bangkok,TH-10,27/7/2023,Bangkok,TH-10,Clade II
+178,8/5/2023,Male,MSM,26,Thai,Chonburi,TH-20,27/7/2023,Chonburi,TH-20,Clade II
+179,8/5/2023,Male,MSM,24,Thai,Bangkok,TH-10,24/7/2023,Bangkok,TH-10,Clade II
+180,8/5/2023,Male,MSM,21,Chinese,Bangkok,TH-10,30/7/2023,Bangkok,TH-10,Clade II
+181,8/5/2023,Male,NA,37,Thai,Bangkok,TH-10,1/8/2023,Bangkok,TH-10,Clade II
+182,8/5/2023,Male,MSM,25,Thai,Bangkok,TH-10,27/7/2023,Bangkok,TH-10,Clade II
+183,8/5/2023,Male,NA,23,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+184,8/5/2023,Male,NA,38,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+185,8/5/2023,male,MSM,41,Thai,Phuket,TH-83,15/7/2023,Phuket,TH-83,Clade II
+186,8/6/2023,Male,NA,47,Thai,Chonburi,TH-20,2/8/2023,Chonburi,TH-20,Clade II
+187,8/6/2023,Male,MSM,33,Thai,Phra Nakhon Si Ayutthaya,TH-14,2/8/2023,Phra Nakhon Si Ayutthaya,TH-14,Clade II
+188,8/6/2023,Male,MSM,36,Thai,Bangkok,TH-10,30/7/2023,Bangkok,TH-10,Clade II
+189,8/6/2023,Male,na,38,Japan,Bangkok,TH-10,27/7/2023,Bangkok,TH-10,Clade II
+190,8/8/2023,Male,MSM,43,Thai,NA,NA,8/7/2023,Bangkok,TH-10,Clade II
+191,8/9/2023,Male,MSM,39,Thai,Nonthaburi,TH-12,8/2/2023,Nonthaburi,TH-12,Clade II
+192,8/9/2023,Male,MSM,45,Thai,Bangkok,TH-10,13/7/2023,Bangkok,TH-10,Clade II
+193,8/9/2023,Male,MSM,29,Thai,Chonburi,TH-20,30/7/2023,Chonburi,TH-20,Clade II
+194,8/10/2023,Male,MSM,34,Thai,Samut Prakan†,TH-11,8/1/2023,Samut Prakan†,TH-11,Clade II
+195,8/10/2023,Male,MSM,34,Thai,Chonburi,TH-20,20/7/2023,Chonburi,TH-20,Clade II
+196,8/10/2023,Male,MSM,33,Thai,Rayong,TH-21,26/7/2023,Rayong,TH-21,Clade II
+197,8/10/2023,Male,MSM,31,Thai,Rayong,TH-21,29/7/2023,Rayong,TH-21,Clade II
+198,8/10/2023,Male,MSM,34,Thai,Chonburi,TH-20,8/7/2023,Chonburi,TH-20,Clade II
+199,8/11/2023,Male,MSM,42,Thai,Bangkok,TH-10,26/7/2023,Bangkok,TH-10,Clade II
+200,8/11/2023,Male,MSM,50,Thai,Bangkok,TH-10,8/3/2023,Bangkok,TH-10,Clade II
+201,8/11/2023,Male,MSM,42,Thai,Bangkok,TH-10,8/3/2023,Bangkok,TH-10,Clade II
+202,8/11/2023,Male,MSM,34,Thai,Bangkok,TH-10,8/7/2023,Bangkok,TH-10,Clade II
+203,8/11/2023,Male,MSM,43,Thai,Nonthaburi,TH-12,8/3/2023,Nonthaburi,TH-12,Clade II
+204,8/11/2023,Male,MSM,30,Thai,Nonthaburi,TH-12,31/7/2023,Bangkok,TH-10,Clade II
+205,8/11/2023,Male,MSM,25,Thai,Bangkok,TH-10,22/7/2023,Bangkok,TH-10,Clade II
+206,8/11/2023,Male,MSM,43,Thai,Bangkok,TH-10,8/2/2023,Bangkok,TH-10,Clade II
+207,8/12/2023,Male,MSM,31,Thai,Chonburi,TH-20,8/2/2023,Chonburi,TH-20,Clade II
+208,8/12/2023,Male,MSM,41,Thai,Chonburi,TH-20,28/7/2023,Chonburi,TH-20,Clade II
+209,8/12/2023,Male,MSM,35,Thai,Chiang Rai,TH-57,8/4/2023,Chiang Rai,TH-57,Clade II
+210,8/12/2023,Male,MSM,46,Chinese,Bangkok,TH-10,8/7/2023,Chiang Rai,TH-57,Clade II
+211,8/12/2023,Male,NA,21,Chinese,NA,NA,NA,Chiang Rai,TH-57,Clade II
+212,8/13/2023,Male,MSM,39,Thai,Bangkok,TH-10,6/8/2023,Chiang Rai,TH-57,Clade II
+213,8/13/2023,Male,MSM,35,Thai,Bangkok,TH-10,4/8/2023,Chiang Rai,TH-57,Clade II
+214,8/15/2023,Male,MSM,21,Thai,Phayao,TH-56,3/8/2023,Chiang Rai,TH-57,Clade II
+215,8/15/2023,Male,MSM,24,Thai,Bangkok,TH-10,8/8/2023,Bangkok,TH-10,Clade II
+216,8/15/2023,Male,MSM,44,Thai,Bangkok,TH-10,6/8/2023,Bangkok,TH-10,Clade II
+217,8/15/2023,Male,MSM,32,Thai,Pathum Thani†,TH-13,7/8/2023,Bangkok,TH-10,Clade II
+218,8/13/2023,Male,MSM,36,Thai,Samut Prakan†,TH-11,6/6/2023,Samut Prakan†,TH-11,Clade II
+219,8/16/2023,Male,MSM,16,Thai,Chonburi,TH-20,8/8/2023,Chonburi,TH-20,Clade II
+220,8/16/2023,Male,MSM,39,Thai,Chachoengsao,TH-24,26/7/2023,Chachoengsao,TH-24,Clade II
+221,8/16/2023,Male,MSM,28,Thai,Bangkok,TH-10,9/8/2023,Chachoengsao,TH-24,Clade II
+222,8/16/2023,Male,MSM,37,Thai,Chiang Rai,TH-57,11/8/2023,Chiang Rai,TH-57,Clade II
+223,8/16/2023,Male,MSM,32,Thai,Bangkok,TH-10,3/8/2023,Bangkok,TH-10,Clade II
+224,8/16/2023,Male,MSM,43,Thai,Chonburi,TH-20,5/8/2023,Bangkok,TH-10,Clade II
+225,8/17/2023,Male,MSM,36,Thai,Chonburi,TH-20,6/8/2023,Chonburi,TH-20,Clade II
+226,8/17/2023,Male,MSM,32,Thai,Chonburi,TH-20,11/8/2023,Chonburi,TH-20,Clade II
+227,8/17/2023,Male,MSM,32,Thai,Nonthaburi,TH-12,6/8/2023,Nonthaburi,TH-12,Clade II
+228,8/17/2023,Male,MSM,39,Thai,NA,NA,16/8/2023,Bangkok,TH-10,Clade II
+229,8/17/2023,Male,MSM,39,Myanmar,NA,NA,12/8/2023,Bangkok,TH-10,Clade II
+230,8/17/2023,Male,MSM,38,Thai,Bangkok,TH-10,5/8/2023,Bangkok,TH-10,Clade II
+231,8/18/2023,Male,MSM,32,Korea,Bangkok,TH-10,13/8/2023,Bangkok,TH-10,Clade II
+232,8/18/2023,Male,MSM,28,Thai,Bangkok,TH-10,11/8/2023,Phuket,TH-83,Clade II
+233,8/18/2023,Male,MSM,39,Thai,Songkhla,TH-90,7/8/2023,Songkhla,TH-90,Clade II
+234,8/18/2023,Male,MSM,41,Thai,NA,NA,8/8/2023,Phetchaburi,TH-76,Clade II
+235,8/18/2023,Male,NA,27,Thai,Chonburi,TH-20,12/8/2023,Chonburi,TH-20,Clade II
+236,8/18/2023,Male,NA,27,Thai,NA,NA,12/8/2023,Rayong,TH-21,Clade II
+237,8/18/2023,Male,MSM,29,Thai,Bangkok,TH-10,9/8/2023,Bangkok,TH-10,Clade II
+238,8/18/2023,Male,MSM,35,Thai,Bangkok,TH-10,11/8/2023,Bangkok,TH-10,Clade II
+239,8/18/2023,Male,MSM,38,Thai,Bangkok,TH-10,7/8/2023,Bangkok,TH-10,Clade II
+240,8/18/2023,Male,MSM,36,Thai,Bangkok,TH-10,12/8/2023,Bangkok,TH-10,Clade II
+241,8/18/2023,Male,MSM,29,Thai,Bangkok,TH-10,10/8/2023,Bangkok,TH-10,Clade II
+242,8/18/2023,Male,MSM,33,Thai,Nonthaburi,TH-12,14/8/2023,Nonthaburi,TH-12,Clade II
+243,8/18/2023,Male,NA,27,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+244,8/18/2023,Male,MSM,30,Thai,Bangkok,TH-10,12/8/2023,Bangkok,TH-10,Clade II
+245,8/18/2023,Male,MSM,30,Thai,Bangkok,TH-10,8/8/2023,Bangkok,TH-10,Clade II
+246,8/19/2023,Male,MSM,32,Thai,Samut Prakan†,TH-11,15/8/2023,Samut Prakan†,TH-11,Clade II
+247,8/19/2023,Male,NA,34,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+248,8/19/2023,Male,MSM,45,Thai,Nonthaburi,TH-12,10/8/2023,Nonthaburi,TH-12,Clade II
+249,8/20/2023,Male,Hetero,26,UAE,Bangkok,TH-10,7/8/2023,Nonthaburi,TH-12,Clade II
+250,8/18/2023,Male,MSM,34,Thai,Bangkok,TH-10,30/6/2023,Bangkok,TH-10,Clade II
+251,8/18/2023,Male,MSM,30,Thai,Bangkok,TH-10,6/8/2023,Bangkok,TH-10,Clade II
+252,8/21/2023,Male,MSM,28,Thai,Bangkok,TH-10,16/8/2023,Bangkok,TH-10,Clade II
+253,8/21/2023,Male,MSM,24,Thai,Bangkok,TH-10,16/8/2023,Bangkok,TH-10,Clade II
+254,8/21/2023,Male,MSM,33,Thai,Bangkok,TH-10,11/8/2023,Bangkok,TH-10,Clade II
+255,8/21/2023,Male,MSM,30,Thai,Bangkok,TH-10,11/8/2023,Bangkok,TH-10,Clade II
+256,8/22/2023,Male,MSM,36,Thai,Bangkok,TH-10,NA,Bangkok,TH-10,Clade II
+257,8/22/2023,Male,MSM,38,Thai,Bangkok,TH-10,14/8/2023,Bangkok,TH-10,Clade II
+258,8/22/2023,Male,MSM,24,Thai,Bangkok,TH-10,18/8/2023,Bangkok,TH-10,Clade II
+259,8/22/2023,Male,MSM,33,Thai,Bangkok,TH-10,13/8/2023,Bangkok,TH-10,Clade II
+260,8/24/2023,Male,MSM,31,NA,Bangkok,TH-10,17/8/2023,Bangkok,TH-10,Clade II
+261,8/24/2023,Male,MSM,26,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+262,8/24/2023,Male,NA,28,Thai,Bangkok,TH-10,18/8/2023,Bangkok,TH-10,Clade II
+263,8/24/2023,Male,MSM,40,Thai,Bangkok,TH-10,21/8/2023,Bangkok,TH-10,Clade II
+264,8/24/2023,Male,MSM,28,Thai,Bangkok,TH-10,18/8/2023,Bangkok,TH-10,Clade II
+265,8/24/2023,Male,MSM,23,Thai,Bangkok,TH-10,7/8/2023,Bangkok,TH-10,Clade II
+266,8/24/2023,Male,MSM,38,Thai,Bangkok,TH-10,17/8/2023,Bangkok,TH-10,Clade II
+267,8/24/2023,Male,MSM,36,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+268,8/23/2023,Male,MSM,31,Thai,Bangkok,TH-10,19/8/2023,Nonthaburi,TH-12,Clade II
+269,8/23/2023,Male,MSM,27,Thai,Bangkok,TH-10,18/8/2023,Nonthaburi,TH-12,Clade II
+270,8/25/2023,Male,MSM,24,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+271,8/25/2023,Male,MSM,46,Thai,Bangkok,TH-10,21/8/2023,Bangkok,TH-10,Clade II
+272,8/25/2023,Male,MSM,28,Thai,Bangkok,TH-10,19/8/2023,Nonthaburi,TH-12,Clade II
+273,8/25/2023,Male,MSM,33,Thai,Bangkok,TH-10,11/8/2023,Bangkok,TH-10,Clade II
+274,8/25/2023,Male,MSM,45,Laos,Bangkok,TH-10,19/8/2023,Bangkok,TH-10,Clade II
+275,8/25/2023,Female,Hetero,46,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+276,8/25/2023,Male,MSM,33,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+277,8/25/2023,Male,MSM,40,Thai,Bangkok,TH-10,21/8/2023,Bangkok,TH-10,Clade II
+278,8/25/2023,Male,MSM,31,Thai,Bangkok,TH-10,11/8/2023,Bangkok,TH-10,Clade II
+279,8/21/2023,Male,MSM,46,Thai,Nonthaburi,TH-12,18/8/2023,Nonthaburi,TH-12,Clade II
+280,8/25/2023,Male,MSM,23,Thai,Phetchaburi,TH-76,20/8/2023,Prachuap Khiri Khan,TH-77,Clade II
+281,8/25/2023,Male,MSM,58,Thai,Nakhon Pathom,TH-73,20/8/2023,Nakhon Pathom,TH-73,Clade II
+282,8/25/2023,Male,MSM,37,Thai,Prachuap Khiri Khan,TH-77,21/8/2023,Prachuap Khiri Khan,TH-77,Clade II
+283,8/23/2023,Male,MSM,33,Thai,Chaiyaphum,TH-36,14/8/2023,Prachuap Khiri Khan,TH-77,Clade II
+284,8/15/2023,Male,Hetero,36,Saudi Arabia,Phuket,TH-83,11/8/2023,Phuket,TH-83,Clade II
+285,7/31/2023,Male,MSM,31,Thai,Chiang Mai,TH-50,23/7/2023,Chiang Mai,TH-50,Clade II
+286,8/9/2023,Male,MSM,40,Thai,Chiang Mai,TH-50,30/7/2023,Chiang Mai,TH-50,Clade II
+287,8/20/2023,Male,MSM,32,Thai,Bangkok,TH-10,13/8/2023,Bangkok,TH-10,Clade II
+288,8/22/2023,Male,MSM,23,Thai,Chiang Rai,TH-57,15/8/2023,Chiang Rai,TH-57,Clade II
+289,8/27/2023,Male,MSM,55,Thai,Bangkok,TH-10,18/8/2023,Nonthaburi,TH-12,Clade II
+290,8/27/2023,Male,MSM,33,Thai,Bangkok,TH-10,18/8/2023,Bangkok,TH-10,Clade II
+291,8/28/2023,Male,MSM,42,Thai,Samut Prakan†,TH-11,23/8/2023,Samut Prakan†,TH-11,Clade II
+292,8/29/2023,Male,MSM,28,Thai,Bangkok,TH-10,24/8/2023,Bangkok,TH-10,Clade II
+293,8/29/2023,Male,MSM,43,NA,Bangkok,TH-10,21/8/2023,Bangkok,TH-10,Clade II
+294,8/29/2023,Male,MSM,29,Myanmar,Bangkok,TH-10,24/8/2023,Bangkok,TH-10,Clade II
+295,8/29/2023,Male,MSM,34,Thai,Bangkok,TH-10,19/8/2023,Bangkok,TH-10,Clade II
+296,8/29/2023,Male,MSM,42,Thai,Bangkok,TH-10,23/8/2023,Bangkok,TH-10,Clade II
+297,8/29/2023,Male,MSM,58,Australia,Bangkok,TH-10,25/8/2023,Nonthaburi,TH-12,Clade II
+298,8/29/2023,Male,MSM,38,Thai,Bangkok,TH-10,23/8/2023,Bangkok,TH-10,Clade II
+299,8/29/2023,Male,NA,44,Thai,Bangkok,TH-10,26/8/2023,Bangkok,TH-10,Clade II
+300,8/29/2023,Male,MSM,32,Thai,Chonburi,TH-20,24/8/2023,Bangkok,TH-10,Clade II
+301,8/29/2023,Male,MSM,35,Thai,Chonburi,TH-20,23/8/2023,Chonburi,TH-20,Clade II
+302,8/29/2023,Male,MSM,23,Thai,Pathum Thani†,TH-13,25/8/2023,Udon Thani,TH-41,Clade II
+303,8/29/2023,Male,MSM,37,Thai,Ubon Ratchathani,TH-34,27/8/2023,Ubon Ratchathani,TH-34,Clade II
+304,8/30/2023,Male,MSM,44,Thai,Bangkok,TH-10,19/8/2023,Bangkok,TH-10,Clade II
+305,8/30/2023,Male,MSM,18,Thai,Bangkok,TH-10,27/8/2023,Bangkok,TH-10,Clade II
+306,8/30/2023,Male,MSM,30,Thai,Bangkok,TH-10,24/8/2023,Bangkok,TH-10,Clade II
+307,8/30/2023,Male,MSM,34,Thai,Bangkok,TH-10,21/8/2023,Nonthaburi,TH-12,Clade II
+308,8/30/2023,Male,MSM,32,Thai,Pathum Thani†,TH-13,23/8/2023,Bangkok,TH-10,Clade II
+309,8/30/2023,Male,MSM,27,Thai,Bangkok,TH-10,26/8/2023,Lopburi,TH-16,Clade II
+310,8/30/2023,Male,MSM,27,Thai,Phuket,TH-83,22/8/2023,Phuket,TH-83,Clade II
+311,8/31/2023,Male,MSM,32,Thai,Bangkok,TH-10,23/8/2023,Bangkok,TH-10,Clade II
+312,8/31/2023,Male,MSM,34,Thai,Bangkok,TH-10,20/8/2023,Bangkok,TH-10,Clade II
+313,8/31/2023,Male,MSM,34,Thai,Bangkok,TH-10,16/8/2023,Chonburi,TH-20,Clade II
+314,9/1/2023,Male,MSM,43,Thai,Bangkok,TH-10,26/8/2023,Bangkok,TH-10,Clade II
+315,9/1/2023,Male,Hetero,62,Australia,Phuket,TH-83,28/8/2023,Phuket,TH-83,Clade II
+316,9/2/2023,Male,MSM,64,Thai,Bangkok,TH-10,27/8/2023,Bangkok,TH-10,Clade II
+317,9/2/2023,Male,MSM,26,Thai,Saraburi,TH-19,29/8/2023,Saraburi,TH-19,Clade II
+318,9/2/2023,Male,NA,35,Thai,Bangkok,TH-10,23/8/2023,Bangkok,TH-10,Clade II
+319,9/4/2023,Male,MSM,31,Thai,Bangkok,TH-10,24/8/2023,Bangkok,TH-10,Clade II
+320,9/4/2023,Male,MSM,35,Thai,Chonburi,TH-20,31/8/2023,Chonburi,TH-20,Clade II
+321,9/4/2023,Male,MSM,30,Thai,Rayong,TH-21,26/8/2023,Rayong,TH-21,Clade II
+322,9/5/2023,Male,MSM,47,Thai,Bangkok,TH-10,28/8/2023,Bangkok,TH-10,Clade II
+323,9/5/2023,Male,MSM,22,Thai,Bangkok,TH-10,31/8/2023,Bangkok,TH-10,Clade II
+324,9/5/2023,Male,NA,31,Thai,Bangkok,TH-10,17/8/2023,Bangkok,TH-10,Clade II
+325,9/5/2023,Male,NA,26,Thai,Bangkok,TH-10,29/8/2023,Bangkok,TH-10,Clade II
+326,9/5/2023,Male,MSM,23,Thai,Chonburi,TH-20,27/8/2023,Chonburi,TH-20,Clade II
+327,9/6/2023,Male,MSM,42,Thai,Bangkok,TH-10,25/8/2023,Bangkok,TH-10,Clade II
+328,9/6/2023,Male,MSM,27,Thai,Bangkok,TH-10,27/8/2023,Bangkok,TH-10,Clade II
+329,9/6/2023,Male,MSM,34,Thai,Bangkok,TH-10,29/8/2023,Bangkok,TH-10,Clade II
+330,9/6/2023,Male,MSM,38,Thai,Nakhon Pathom,TH-73,27/8/2023,Bangkok,TH-10,Clade II
+331,9/7/2023,Male,MSM,33,Thai,Bangkok,TH-10,23/8/2023,Bangkok,TH-10,Clade II
+332,9/7/2023,Male,MSM,44,Thai,Bangkok,TH-10,1/9/2023,Bangkok,TH-10,Clade II
+333,9/7/2023,Male,MSM,40,Thai,Chonburi,TH-20,2/9/2023,Chonburi,TH-20,Clade II
+334,9/7/2023,Male,Hetero,33,Thai,Samut Prakan†,TH-11,3/9/2023,Chonburi,TH-20,Clade II
+335,9/7/2023,Male,MSM,36,Thai,Nonthaburi,TH-12,31/8/2023,Nonthaburi,TH-12,Clade II
+336,9/7/2023,Male,MSM,39,Thai,Chiang Mai,TH-50,31/8/2023,Chiang Mai,TH-50,Clade II
+337,9/8/2023,Male,MSM,42,Thai,Bangkok,TH-10,31/8/2023,Bangkok,TH-10,Clade II
+338,9/10/2023,Male,MSM,42,Thai,Bangkok,TH-10,4/9/2023,Bangkok,TH-10,Clade II
+339,11/8/2023,Male,MSM,37,Thai,Rayong,TH-21,28/8/2023,Rayong,TH-21,Clade II
+340,9/11/2023,Male,NA,34,Thai,Bangkok,TH-10,3/9/2023,Bangkok,TH-10,Clade II
+341,9/11/2023,Male,MSM,33,Myanmar,Ranong,TH-85,2/9/2023,Bangkok,TH-10,Clade II
+342,9/11/2023,Male,Hetero,28,Thai,Chonburi,TH-20,2/9/2023,Chonburi,TH-20,Clade II
+343,8/25/2023,Female,Hetero,25,Thai,Phuket,TH-83,18/8/2023,Phuket,TH-83,Clade II
+344,8/23/2023,Male,MSM,27,Thai,Prachinburi,TH-25,14/8/2023,Prachinburi,TH-25,Clade II
+345,9/11/2023,Male,MSM,36,Thai,Bangkok,TH-10,NA,Prachinburi,TH-25,Clade II
+346,9/11/2023,Male,MSM,22,Thai,Chonburi,TH-20,6/9/2023,Prachinburi,TH-25,Clade II
+347,9/11/2023,Male,MSM,42,Thai,Chonburi,TH-20,6/9/2023,Chonburi,TH-20,Clade II
+348,9/11/2023,Male,LGBT,25,Thai,Chonburi,TH-20,25/8/2023,Chonburi,TH-20,Clade II
+349,9/12/2023,Male,MSM,24,Myanmar,Bangkok,TH-10,27/8/2023,Bangkok,TH-10,Clade II
+350,9/12/2023,Male,MSM,39,Thai,Bangkok,TH-10,6/9/2023,Bangkok,TH-10,Clade II
+351,9/12/2023,Male,MSM,29,Thai,Bangkok,TH-10,4/9/2023,Bangkok,TH-10,Clade II
+352,9/12/2023,Male,MSM,37,Thai,Bangkok,TH-10,5/9/2023,Nonthaburi,TH-12,Clade II
+353,9/12/2023,Male,MSM,39,Thai,Bangkok,TH-10,3/9/2023,Bangkok,TH-10,Clade II
+354,9/12/2023,Male,MSM,27,Thai,Chonburi,TH-20,8/9/2023,Chonburi,TH-20,Clade II
+355,9/12/2023,Male,MSM,37,Thai,Nonthaburi,TH-12,4/9/2023,Nonthaburi,TH-12,Clade II
+356,9/12/2023,Male,MSM,46,Thai,Nonthaburi,TH-12,10/9/2023,Pathum Thani†,TH-13,Clade II
+357,9/12/2023,Male,MSM,28,Thai,Bangkok,TH-10,9/9/2023,Pathum Thani†,TH-13,Clade II
+358,9/12/2023,Male,MSM,34,Thai,Rayong,TH-21,3/9/2023,Chonburi,TH-20,Clade II
+359,9/12/2023,Male,MSM,22,Thai,Pathum Thani†,TH-13,8/9/2023,Nakhon Si Thammarat,TH-80,Clade II
+360,9/12/2023,Male,Hetero,34,Italy,Phuket,TH-83,7/9/2023,Phuket,TH-83,Clade II
+361,9/13/2023,Male,NA,34,Thai,Bangkok,TH-10,1/9/2023,Bangkok,TH-10,Clade II
+362,9/13/2023,Male,MSM,46,Thai,Bangkok,TH-10,8/9/2023,Bangkok,TH-10,Clade II
+363,9/13/2023,Male,Bisexual,54,Thai,Bangkok,TH-10,24/8/2023,Bangkok,TH-10,Clade II
+364,9/13/2023,Male,MSM,58,Thai,Bangkok,TH-10,6/9/2023,Bangkok,TH-10,Clade II
+365,9/13/2023,Male,MSM,25,Thai,Bangkok,TH-10,27/8/2023,Bangkok,TH-10,Clade II
+366,9/13/2023,Male,MSM,30,Thai,Bangkok,TH-10,5/9/2023,Bangkok,TH-10,Clade II
+367,9/13/2023,Male,MSM,26,Thai,Bangkok,TH-10,9/9/2023,Bangkok,TH-10,Clade II
+368,9/13/2023,Male,MSM,29,Thai,Bangkok,TH-10,6/9/2023,Bangkok,TH-10,Clade II
+369,9/13/2023,Male,MSM,48,Thai,Bangkok,TH-10,6/9/2023,Bangkok,TH-10,Clade II
+370,9/13/2023,Male,MSM,38,NA,Bangkok,TH-10,26/8/2023,Bangkok,TH-10,Clade II
+371,9/13/2023,Male,MSM,25,Thai,Chonburi,TH-20,8/9/2023,Chonburi,TH-20,Clade II
+372,9/13/2023,Male,MSM,40,Thai,Chonburi,TH-20,4/9/2023,Bangkok,TH-10,Clade II
+373,9/13/2023,Male,Bisexual,25,Thai,Rayong,TH-21,6/9/2023,Rayong,TH-21,Clade II
+374,9/13/2023,Male,MSM,27,Thai,Chonburi,TH-20,6/9/2023,Chonburi,TH-20,Clade II
+375,9/14/2023,Male,MSM,32,Thai,Bangkok,TH-10,12/9/2023,Bangkok,TH-10,Clade II
+376,9/14/2023,Male,MSM,47,Thai,Bangkok,TH-10,6/9/2023,Bangkok,TH-10,Clade II
+377,9/14/2023,Male,MSM,24,Thai,Bangkok,TH-10,9/9/2023,Bangkok,TH-10,Clade II
+378,9/14/2023,Male,Bisexual,23,Thai,Bangkok,TH-10,13/8/2023,Bangkok,TH-10,Clade II
+379,9/14/2023,Female,Hetero,32,Thai,Chonburi,TH-20,9/9/2023,Chonburi,TH-20,Clade II
+380,9/15/2023,Male,Hetero,44,Thai,Bangkok,TH-10,4/9/2023,Bangkok,TH-10,Clade II
+381,9/15/2023,Male,MSM,43,Thai,Chonburi,TH-20,9/9/2023,Chonburi,TH-20,Clade II
+382,9/15/2023,Male,MSM,30,Thai,Chonburi,TH-20,1/9/2023,Chonburi,TH-20,Clade II
+383,9/18/2023,Male,MSM,30,Thai,Bangkok,TH-10,9/9/2023,Bangkok,TH-10,Clade II
+384,8/22/2023,Male,MSM,40,Thai,Chonburi,TH-20,3/8/2023,Chonburi,TH-20,Clade II
+385,8/24/2023,Male,MSM,24,Thai,Chonburi,TH-20,20/8/2023,Chonburi,TH-20,Clade II
+386,8/24/2023,Male,MSM,28,Filipino,Chonburi,TH-20,17/8/2023,Chonburi,TH-20,Clade II
+387,9/18/2023,Male,Hetero,44,Thai,Saraburi,TH-19,13/9/2023,Saraburi,TH-19,Clade II
+388,9/18/2023,Female,Hetero,20,Thai,Saraburi,TH-19,15/9/2023,Saraburi,TH-19,Clade II
+389,9/18/2023,Male,MSM,23,Thai,Bangkok,TH-10,NA,Bangkok,TH-10,Clade II
+390,9/18/2023,Male,Hetero,29,Thai,Bangkok,TH-10,10/9/2023,Bangkok,TH-10,Clade II
+391,9/18/2023,Male,NA,38,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+392,9/18/2023,Male,MSM,24,Thai,Bangkok,TH-10,1/9/2023,Bangkok,TH-10,Clade II
+393,9/18/2023,Male,MSM,27,Thai,Bangkok,TH-10,15/9/2023,Bangkok,TH-10,Clade II
+394,9/18/2023,Male,MSM,43,Thai,Bangkok,TH-10,10/9/2023,Bangkok,TH-10,Clade II
+395,9/18/2023,Male,NA,47,Thai,NA,NA,NA,Bangkok,TH-10,Clade II
+396,9/19/2023,Male,MSM,32,Thai,Chiang Mai,TH-50,14/9/2023,Chiang Mai,TH-50,Clade II
+397,9/19/2023,Male,MSM,36,Thai,Bangkok,TH-10,15/9/2023,Nonthaburi,TH-12,Clade II
+398,9/19/2023,Male,MSM,35,Thai,Nonthaburi,TH-12,6/9/2023,Bangkok,TH-10,Clade II
+399,9/19/2023,Male,MSM,29,Thai,Rayong,TH-21,12/9/2023,Rayong,TH-21,Clade II
+400,9/19/2023,Male,MSM,32,Thai,Chonburi,TH-20,10/9/2023,Chonburi,TH-20,Clade II
+401,9/19/2023,Male,MSM,35,Thai,Prachinburi,TH-25,5/9/2023,Prachinburi,TH-25,Clade II
+402,9/19/2023,Male,MSM,37,Thai,Phuket,TH-83,14/9/2023,Phuket,TH-83,Clade II
+403,9/20/2023,Male,MSM,19,Thai,Bangkok,TH-10,13/9/2023,Bangkok,TH-10,Clade II
+404,9/20/2023,Male,NA,36,Thai,NA,NA,15/9/2023,Bangkok,TH-10,Clade II
+405,9/20/2023,Male,LGBT,34,Thai,Bangkok,TH-10,11/9/2023,Bangkok,TH-10,Clade II
+406,9/20/2023,Male,MSM,42,Thai,Bangkok,TH-10,18/9/2023,Bangkok,TH-10,Clade II
+407,9/21/2023,Male,MSM,33,Thai,Bangkok,TH-10,18/9/2023,Nonthaburi,TH-12,Clade II
+408,9/21/2023,Male,MSM,39,Thai,Chiang Rai,TH-57,26/8/2023,Chiang Rai,TH-57,Clade II
+409,9/21/2023,Male,MSM,33,Thai,Chonburi,TH-20,10/9/2023,Chonburi,TH-20,Clade II
+410,9/21/2023,Male,LGBT,22,Thai,Phuket,TH-83,8/9/2023,Phuket,TH-83,Clade II
+411,9/21/2023,Male,Hetero,36,Thai,Nonthaburi,TH-12,7/9/2023,Bangkok,TH-10,Clade II
+412,9/21/2023,Male,MSM,37,Thai,Nonthaburi,TH-12,20/9/2023,Bangkok,TH-10,Clade II
+413,9/21/2023,Male,MSM,42,Thai,Bangkok,TH-10,14/9/2023,Bangkok,TH-10,Clade II
+414,9/21/2023,Male,MSM,37,Thai,Bangkok,TH-10,16/9/2023,Bangkok,TH-10,Clade II
+415,9/21/2023,Male,MSM,43,Thai,Bangkok,TH-10,14/9/2023,Bangkok,TH-10,Clade II
+416,9/21/2023,Male,Hetero,23,Thai,Bangkok,TH-10,17/9/2023,Bangkok,TH-10,Clade II
+417,9/21/2023,Male,MSM,33,Thai,Bangkok,TH-10,17/9/2023,Bangkok,TH-10,Clade II
+418,9/22/2023,Male,MSM,20,Thai,Chonburi,TH-20,16/9/2023,Chonburi,TH-20,Clade II
+419,9/22/2023,Male,MSM,64,Italy,Chonburi,TH-20,14/9/2023,Chonburi,TH-20,Clade II
+420,9/22/2023,Male,MSM,26,Thai,Chonburi,TH-20,18/9/2023,Chonburi,TH-20,Clade II
+421,9/22/2023,Male,MSM,43,Australia,Bangkok,TH-10,16/9/2023,Nonthaburi,TH-12,Clade II
+422,9/22/2023,Male,MSM,28,Thai,Bangkok,TH-10,20/9/2023,Bangkok,TH-10,Clade II
+423,9/22/2023,Male,MSM,26,Thai,Bangkok,TH-10,15/9/2023,Bangkok,TH-10,Clade II
+424,9/23/2023,Male,MSM,26,Thai,Nonthaburi,TH-12,17/9/2023,Bangkok,TH-10,Clade II
+425,9/23/2023,Male,MSM,24,Thai,Bangkok,TH-10,18/9/2023,Bangkok,TH-10,Clade II
+426,9/23/2023,Male,MSM,27,Thai,Bangkok,TH-10,9/9/2023,Bangkok,TH-10,Clade II
+427,9/23/2023,Male,MSM,25,Thai,Bangkok,TH-10,8/9/2023,Bangkok,TH-10,Clade II
+428,9/25/2023,Male,MSM,23,Thai,Bangkok,TH-10,16/9/2023,Bangkok,TH-10,Clade II
+429,9/25/2023,Male,LGBT,27,Thai,Chonburi,TH-20,15/9/2023,Chonburi,TH-20,Clade II
+430,9/25/2023,Male,LGBT,30,Thai,Chonburi,TH-20,21/9/2023,Chonburi,TH-20,Clade II
+431,9/25/2023,Male,MSM,32,Thai,Chonburi,TH-20,20/9/2023,Chonburi,TH-20,Clade II
+432,9/25/2023,Male,MSM,35,Thai,Bangkok,TH-10,16/9/2023,Bangkok,TH-10,Clade II
+433,9/25/2023,Male,LGBT,28,Thai,Bangkok,TH-10,14/9/2023,Bangkok,TH-10,Clade II
+434,9/25/2023,Male,NA,48,Thai,Bangkok,TH-10,13/9/2023,Bangkok,TH-10,Clade II
+435,9/25/2023,Male,MSM,30,Thai,Bangkok,TH-10,22/9/2023,Bangkok,TH-10,Clade II
+436,9/26/2023,Male,Gay,35,Thai,Nakhon Pathom,TH-73,21/9/2023,Nakhon Pathom,TH-73,Clade II
+437,9/26/2023,Male,MSM,32,Laos,Chonburi,TH-20,18/9/2023,Chonburi,TH-20,Clade II
+438,9/26/2023,Male,MSM,55,Thai,Bangkok,TH-10,NA,Bangkok,TH-10,Clade II
+439,9/26/2023,Male,Gay,32,Thai,Bangkok,TH-10,18/9/2023,Bangkok,TH-10,Clade II
+440,9/26/2023,Male,Gay,42,Thai,Bangkok,TH-10,18/9/2023,Bangkok,TH-10,Clade II
+441,9/26/2023,Male,MSM,53,Thai,Bangkok,TH-10,19/9/2023,Bangkok,TH-10,Clade II
+442,9/26/2023,Male,Gay,29,Thai,Bangkok,TH-10,19/9/2023,Bangkok,TH-10,Clade II
+443,9/27/2023,Male,Hetero,51,Thai,Nonthaburi,TH-12,20/9/2023,Nonthaburi,TH-12,Clade II
+444,9/27/2023,Male,Hetero,41,Thai,Nonthaburi,TH-12,18/9/2023,Bangkok,TH-10,Clade II
+445,9/27/2023,Male,MSM,30,Thai,Bangkok,TH-10,17/9/2023,Bangkok,TH-10,Clade II
+446,9/28/2023,Male,MSM,45,Thai,Chonburi,TH-20,24/9/2023,Chonburi,TH-20,Clade II
+447,9/28/2023,Male,MSM,44,Thai,Bangkok,TH-10,21/9/2023,Bangkok,TH-10,Clade II
+448,9/28/2023,Male,MSM,41,Thai,Bangkok,TH-10,17/9/2023,Bangkok,TH-10,Clade II
+449,9/28/2023,Male,MSM,45,Thai,Bangkok,TH-10,26/9/2023,Bangkok,TH-10,Clade II
+450,9/29/2023,Male,MSM,42,Thai,Samut Prakan†,TH-11,22/9/2023,Nonthaburi,TH-12,Clade II
+451,9/29/2023,Male,MSM,23,Thai,Chonburi,TH-20,23/9/2023,Chonburi,TH-20,Clade II
+452,9/29/2023,Male,NA,30,Thai,Sa Kaeo,TH-27,23/9/2023,Sa Kaeo,TH-27,Clade II
+453,9/29/2023,Male,LGBT,45,Thai,Samut Prakan†,TH-11,22/9/2023,Samut Prakan†,TH-11,Clade II
+454,9/29/2023,Male,NA,28,Thai,Songkhla,TH-90,26/9/2023,Songkhla,TH-90,Clade II
+455,9/29/2023,Male,MSM,26,Thai,Bangkok,TH-10,19/9/2023,Bangkok,TH-10,Clade II
+456,9/30/2023,Male,MSM,42,Thai,Samut Prakan†,TH-11,19/9/2023,Bangkok,TH-10,Clade II
+457,9/30/2023,Male,MSM,23,Laos,Nonthaburi,TH-12,24/9/2023,Bangkok,TH-10,Clade II
+458,9/30/2023,Male,NA,37,Thai,Bangkok,TH-10,26/9/2023,Bangkok,TH-10,Clade II
+459,9/30/2023,Male,MSM,25,Thai,Bangkok,TH-10,23/9/2023,Bangkok,TH-10,Clade II
+460,9/30/2023,Male,MSM,49,Thai,Bangkok,TH-10,28/9/2023,Bangkok,TH-10,Clade II
+461,9/30/2023,Female,Hetero,37,Thai,Phuket,TH-83,26/9/2023,Phuket,TH-83,Clade II
+462,10/1/2023,Female,Hetero,38,Thai,Phuket,TH-83,25/9/2023,Phuket,TH-83,Clade II
+463,10/2/2023,Male,MSM,36,Thai,Lamphun ,TH-51,29/9/2023,Chiang Mai,TH-50,Clade II
+464,10/2/2023,Male,MSM,49,Thai,Samut Prakan†,TH-11,27/9/2023,Samut Prakan†,TH-11,Clade II
+465,10/2/2023,Male,MSM,23,Thai,Chonburi,TH-20,23/9/2023,Chonburi,TH-20,Clade II
+466,10/2/2023,Male,MSM,23,Thai,Samut Prakan†,TH-11,25/9/2023,Samut Prakan†,TH-11,Clade II
+467,10/2/2023,Male,Gay,28,Thai,Phuket,TH-83,21/9/2023,Phuket,TH-83,Clade II
+468,10/2/2023,Male,MSM,25,Thai,Bangkok,TH-10,22/9/2023,Bangkok,TH-10,Clade II
+469,10/2/2023,Male,Gay,30,Thai,Bangkok,TH-10,21/9/2023,Bangkok,TH-10,Clade II
+470,10/3/2023,Male,MSM,31,Thai,Pathum Thani†,TH-13,28/9/2023,Bangkok,TH-10,Clade II
+471,10/3/2023,Male,MSM,31,Thai,Pathum Thani†,TH-13,26/9/2023,Bangkok,TH-10,Clade II
+472,10/3/2023,Male,LGBT,27,Thai,Prachuap Khiri Khan,TH-77,25/9/2023,Prachuap Khiri Khan,TH-77,Clade II
+473,10/3/2023,Female,Hetero,29,Thai,Phuket,TH-83,24/9/2023,Rayong,TH-21,Clade II
+474,10/3/2023,Male,MSM,24,Thai,Samut Prakan†,TH-11,24/9/2023,Samut Prakan†,TH-11,Clade II
+475,10/3/2023,Male,MSM,36,Thai,Bangkok,TH-10,23/9/2023,Bangkok,TH-10,Clade II
+476,10/3/2023,Male,MSM,43,Thai,Bangkok,TH-10,25/9/2023,Bangkok,TH-10,Clade II
+477,10/3/2023,Male,MSM,42,Thai,Bangkok,TH-10,25/9/2023,Bangkok,TH-10,Clade II
+478,10/4/2023,Male,Gay,28,Thai,Phuket,TH-83,18/9/2023,Phuket,TH-83,Clade II
+479,10/5/2023,Male,MSM,40,Thai,Nonthaburi,TH-12,30/9/2023,Bangkok,TH-10,Clade II
+480,10/5/2023,Male,LGBT,39,Thai,Samut Prakan†,TH-11,30/9/2023,Samut Prakan†,TH-11,Clade II
+481,10/5/2023,Male,MSM,39,Thai,Bangkok,TH-10,26/9/2023,Bangkok,TH-10,Clade II
+482,10/5/2023,Male,MSM,36,Thai,Bangkok,TH-10,30/9/2023,Bangkok,TH-10,Clade II
+483,10/5/2023,Male,Gay,40,Thai,Bangkok,TH-10,27/9/2023,Bangkok,TH-10,Clade II
+484,10/5/2023,Male,MSM,36,Thai,Bangkok,TH-10,21/9/2023,Nonthaburi,TH-12,Clade II
+485,10/5/2023,Male,MSM,32,Thai,Bangkok,TH-10,16/9/2023,Nonthaburi,TH-12,Clade II
+486,10/6/2023,Male,LGBT,30,Thai,Chonburi,TH-20,27/9/2023,Chonburi,TH-20,Clade II
+487,10/6/2023,Female,Hetero,29,Thai,Buriram,TH-31,25/9/2023,Buriram,TH-31,Clade II
+488,10/6/2023,Male,MSM,27,Thai,Bangkok,TH-10,23/9/2023,Buriram,TH-31,Clade II
+489,10/7/2023,Male,LGBT,23,Thai,Bangkok,TH-10,28/9/2023,Nakhon Si Thammarat,TH-80,Clade II
+490,10/7/2023,Male,MSM,38,Thai,Bangkok,TH-10,1/10/2023,Bangkok,TH-10,Clade II
+491,10/7/2023,Male,MSM,28,Thai,Bangkok,TH-10,1/10/2023,Bangkok,TH-10,Clade II
+492,10/7/2023,Male,LGBT,42,Thai,Bangkok,TH-10,25/9/2023,Bangkok,TH-10,Clade II
+493,10/10/2023,Male,MSM,31,Thai,Bangkok,TH-10,5/10/2023,Lopburi,TH-16,Clade II
+494,10/10/2023,Male,NA,28,Thai,Khon Kaen,TH-40,7/10/2023,Buriram,TH-31,Clade II
+495,10/10/2023,Male,Hetero,45,Thai,Buriram,TH-31,2/10/2023,Buriram,TH-31,Clade II
+496,10/10/2023,Male,MSM,40,Thai,Bangkok,TH-10,8/10/2023,Buriram,TH-31,Clade II
+497,10/10/2023,Male,LGBT,25,Thai,Bangkok,TH-10,30/9/2023,Bangkok,TH-10,Clade II
+498,10/10/2023,Male,Gay,26,Thai,Bangkok,TH-10,4/10/2023,Bangkok,TH-10,Clade II
+499,10/11/2023,Male,MSM,35,Thai,Chonburi,TH-20,4/10/2023,Chonburi,TH-20,Clade II
+500,10/12/2023,Male,Gay,39,Thai,Bangkok,TH-10,5/10/2023,Pathum Thani†,TH-13,Clade II
+501,10/12/2023,Male,MSM,22,Myanmar,Pathum Thani†,TH-13,6/10/2023,Pathum Thani†,TH-13,Clade II
+502,10/12/2023,Female,Hetero,48,Thai,Phuket,TH-83,11/10/2023,Phuket,TH-83,Clade II
+503,10/12/2023,Male,MSM,22,Thai,Bangkok,TH-10,1/10/2023,Nonthaburi,TH-12,Clade II
+504,10/12/2023,Male,MSM,23,Thai,Bangkok,TH-10,17/9/2023,Bangkok,TH-10,Clade II
+505,10/13/2023,Male,Bisexual,30,Thai,Nonthaburi,TH-12,1/10/2023,Bangkok,TH-10,Clade II
+506,10/13/2023,Male,Bisexual,25,Thai,Bangkok,TH-10,30/9/2023,Bangkok,TH-10,Clade II
+507,10/14/2023,Male,LGBT,22,Thai,Bangkok,TH-10,4/10/2023,Bangkok,TH-10,Clade II
+508,10/15/2023,Male,MSM,34,Thai,Phuket,TH-83,10/10/2023,Phuket,TH-83,Clade II
+509,10/16/2023,Male,MSM,27,Thai,Chonburi,TH-20,5/10/2023,Chonburi,TH-20,Clade II
+510,10/16/2023,Male,MSM,34,Brazil,Phuket,TH-83,10/10/2023,Phuket,TH-83,Clade II
+511,10/16/2023,Male,MSM,26,Thai,Bangkok,TH-10,8/10/2023,Bangkok,TH-10,Clade II
+512,10/16/2023,Male,MSM,38,Thai,Bangkok,TH-10,26/9/2023,Bangkok,TH-10,Clade II
+513,10/16/2023,Male,MSM,26,Thai,Bangkok,TH-10,11/10/2023,Bangkok,TH-10,Clade II
+514,10/17/2023,Male,na,32,Thai,Lampang,TH-52,12/10/2023,Lampang,TH-52,Clade II
+515,10/17/2023,Male,MSM,23,Thai,Samut Prakan†,TH-11,11/10/2023,Samut Prakan†,TH-11,Clade II
+516,10/17/2023,Male,MSM,24,Thai,Chonburi,TH-20,7/10/2023,Chonburi,TH-20,Clade II
+517,10/17/2023,Male,MSM,32,Thai,Phuket,TH-83,10/10/2023,Phuket,TH-83,Clade II
+518,10/17/2023,Male,NA,1,Thai,Phuket,TH-83,15/10/2023,Songkhla,TH-90,Clade II
+519,10/18/2023,Male,MSM,21,Thai,Bangkok,TH-10,8/10/2023,Nonthaburi,TH-12,Clade II
+520,10/18/2023,Male,MSM,38,Thai,Bangkok,TH-10,9/10/2023,Bangkok,TH-10,Clade II
+521,10/18/2023,Male,MSM,36,Thai,Bangkok,TH-10,13/10/2023,Bangkok,TH-10,Clade II
+522,10/19/2023,Male,MSM,38,Thai,Pathum Thani†,TH-13,11/10/2023,Bangkok,TH-10,Clade II
+523,10/19/2023,Male,MSM,31,Thai,Nonthaburi,TH-12,7/10/2023,Bangkok,TH-10,Clade II
+524,10/19/2023,Male,MSM,26,Thai,Bangkok,TH-10,5/10/2023,Bangkok,TH-10,Clade II
+525,10/19/2023,Male,MSM,34,Cambodia,Bangkok,TH-10,18/10/2023,Bangkok,TH-10,Clade II
+526,10/19/2023,Male,MSM,32,Thai,Bangkok,TH-10,30/9/2023,Bangkok,TH-10,Clade II
+527,10/19/2023,Male,LGBT,40,Thai,Bangkok,TH-10,18/10/2023,Bangkok,TH-10,Clade II
+528,10/20/2023,Male,MSM,38,Thai,Nakhon Pathom,TH-73,5/10/2023,Samut Sakhon†,TH-74,Clade II
+529,10/20/2023,Male,MSM,22,Thai,Nakhon Phanom,TH-48,16/10/2023,Nakhon Phanom,TH-48,Clade II
+530,10/20/2023,Male,NA,31,Thai,Nakhon Ratchasima,TH-30,1/10/2023,Nakhon Ratchasima,TH-30,Clade II
+531,10/20/2023,Male,MSM,44,Myanmar,Phuket,TH-83,12/10/2023,Phuket,TH-83,Clade II
+532,10/20/2023,Male,MSM,38,Thai,Songkhla,TH-90,14/10/2023,Songkhla,TH-90,Clade II
+533,10/20/2023,Male,MSM,28,Thai,Bangkok,TH-10,30/10/2023,Bangkok,TH-10,Clade II
+534,10/20/2023,Male,MSM,27,Laos,Bangkok,TH-10,15/10/2023,Nonthaburi,TH-12,Clade II
+535,10/21/2023,Male,MSM,43,Thai,Bangkok,TH-10,16/10/2023,Bangkok,TH-10,Clade II
+536,10/22/2023,Male,Hetero,37,Thai,Surin,TH-32,6/10/2023,Surin,TH-32,Clade II
+537,10/22/2023,Male,MSM,24,Thai,Prachinburi,TH-25,17/10/2023,Prachinburi,TH-25,Clade II
+538,10/23/2023,Male,MSM,45,Thai,Bangkok,TH-10,16/10/2023,Bangkok,TH-10,Clade II
+539,10/23/2023,Male,LGBT,29,Thai,Bangkok,TH-10,14/10/2023,Bangkok,TH-10,Clade II
+540,10/23/2023,Male,Gay,38,Thai,Bangkok,TH-10,9/10/2023,Bangkok,TH-10,Clade II
+541,10/24/2023,Male,MSM,24,Spanish,Chiang Mai,TH-50,20/10/2023,Chiang Mai,TH-50,Clade II
+542,10/24/2023,Male,MSM,21,Thai,Nakhon Pathom,TH-73,19/10/2023,Samut Prakan†,TH-11,Clade II
+543,10/24/2023,Male,MSM,45,Thai,Udon Thani,TH-41,16/10/2023,Udon Thani,TH-41,Clade II
+544,10/24/2023,Male,NA,5,Thai,Phuket,TH-83,15/10/2023,Phuket,TH-83,Clade II
+545,10/24/2023,Male,MSM,42,Thai,Phuket,TH-83,20/10/2023,Phuket,TH-83,Clade II
+546,10/25/2023,Male,MSM,40,Thai,Chiang Mai,TH-50,21/10/2023,Chiang Mai,TH-50,Clade II
+547,10/25/2023,Male,MSM,47,Thai,Phrae,TH-54,21/10/2023,Phrae,TH-54,Clade II
+548,10/25/2023,Male,NA,42,Thai,Pathum Thani†,TH-13,15/8/2023,Bangkok,TH-10,Clade II
+549,10/25/2023,Male,MSM,29,Thai,Rayong,TH-21,15/10/2023,Chonburi,TH-20,Clade II
+550,10/25/2023,Male,Hetero,34,Thai,Bangkok,TH-10,12/10/2023,Bangkok,TH-10,Clade II
+551,10/26/2023,Male,MSM,42,Thai,Nonthaburi,TH-12,23/9/2023,Bangkok,TH-10,Clade II
+552,10/26/2023,Male,MSM,42,Thai,Saraburi,TH-19,19/10/2023,Bangkok,TH-10,Clade II
+553,10/26/2023,Male,MSM,38,Thai,Nonthaburi,TH-12,10/10/2023,Bangkok,TH-10,Clade II
+554,10/26/2023,Male,MSM,42,Thai,Bangkok,TH-10,20/10/2023,Bangkok,TH-10,Clade II
+555,10/26/2023,Male,LGBT,31,Thai,Bangkok,TH-10,16/10/2023,Bangkok,TH-10,Clade II
+556,10/26/2023,Male,LGBT,32,Thai,Bangkok,TH-10,10/10/2023,Bangkok,TH-10,Clade II
+557,10/27/2023,Male,MSM,26,American,Chiang Mai,TH-50,20/10/2023,Chiang Mai,TH-50,Clade II
+558,10/27/2023,Male,Bisexual,47,Thai,Nonthaburi,TH-12,19/10/2023,Nonthaburi,TH-12,Clade II
+559,10/27/2023,Male,LGBT,36,Thai,Ubon Ratchathani,TH-34,14/10/2023,Ubon Ratchathani,TH-34,Clade II
+560,10/28/2023,Male,MSM,28,Thai,Bangkok,TH-10,25/10/2023,Bangkok,TH-10,Clade II
+561,10/28/2023,Male,MSM,28,Thai,Bangkok,TH-10,23/10/2023,Bangkok,TH-10,Clade II
+562,10/29/2023,Male,MSM,58,Thai,Nakhon Pathom,TH-73,19/10/2023,Nonthaburi,TH-12,Clade II
+563,10/29/2023,Male,MSM,33,Thai,Samut Prakan†,TH-11,16/10/2023,Samut Prakan†,TH-11,Clade II
+564,10/29/2023,Male,MSM,30,Thai,Nakhon Phanom,TH-48,20/10/2023,Nakhon Phanom,TH-48,Clade II
+565,10/29/2023,Male,MSM,26,Thai,Phuket,TH-83,24/10/2023,Phuket,TH-83,Clade II
+566,10/30/2023,Male,MSM,34,Thai,Chonburi,TH-20,21/10/2023,Chonburi,TH-20,Clade II
+567,10/30/2023,Male,MSM,34,Thai,Bangkok,TH-10,8/9/2023,Bangkok,TH-10,Clade II
+568,10/30/2023,Female,Hetero,42,Thai,Bangkok,TH-10,22/10/2023,Bangkok,TH-10,Clade II
+569,10/31/2023,Male,MSM,45,Thai,Bangkok,TH-10,20/10/2023,Pathum Thani†,TH-13,Clade II
+570,10/31/2023,Male,MSM,23,Thai,Ubon Ratchathani,TH-34,22/10/2023,Ubon Ratchathani,TH-34,Clade II
+571,10/31/2023,Male,MSM,36,Thai,Bangkok,TH-10,26/10/2023,Bangkok,TH-10,Clade II
+572,10/31/2023,Male,MSM,25,Thai,Bangkok,TH-10,19/10/2023,Bangkok,TH-10,Clade II
+573,10/31/2023,Male,MSM,24,Thai,Bangkok,TH-10,27/10/2023,Bangkok,TH-10,Clade II
+574,10/31/2023,Male,MSM,24,Thai,Bangkok,TH-10,24/10/2023,Nonthaburi,TH-12,Clade II
+575,11/1/2023,Male,MSM,30,Thai,Bangkok,TH-10,27/10/2023,Bangkok,TH-10,Clade II
+576,11/1/2023,Male,Gay,26,Thai,Bangkok,TH-10,30/10/2023,Bangkok,TH-10,Clade II
+577,11/1/2023,Male,Gay,29,Thai,Bangkok,TH-10,28/10/2023,Bangkok,TH-10,Clade II
+578,11/1/2023,Male,MSM,38,Thai,Bangkok,TH-10,10/10/2023,Bangkok,TH-10,Clade II
+579,11/2/2023,Male,MSM,27,Myanmar,Bangkok,TH-10,25/10/2023,Bangkok,TH-10,Clade II
+580,11/2/2023,Male,MSM,26,Thai,Bangkok,TH-10,23/10/2023,Bangkok,TH-10,Clade II
+581,11/3/2023,Male,Hetero,32,Thai,Bangkok,TH-10,28/10/2023,Bangkok,TH-10,Clade II
+582,11/3/2023,Male,MSM,37,Thai,Bangkok,TH-10,25/10/2023,Bangkok,TH-10,Clade II
+583,11/4/2023,Male,MSM,33,Thai,Bangkok,TH-10,23/10/2023,Nonthaburi,TH-12,Clade II
+584,11/4/2023,Male,NA,42,Thai,Bangkok,TH-10,28/10/2023,Bangkok,TH-10,Clade II
+585,11/5/2023,Male,LGBT,33,Thai,Nonthaburi,TH-12,28/10/2023,Bangkok,TH-10,Clade II
+586,11/6/2023,Male,MSM,41,Thai,Bangkok,TH-10,27/10/2023,Nonthaburi,TH-12,Clade II
+587,11/6/2023,Male,MSM,37,Thai,Bangkok,TH-10,1/11/2023,Bangkok,TH-10,Clade II
+588,11/6/2023,Male,MSM,54,Thai,Bangkok,TH-10,28/10/2023,Bangkok,TH-10,Clade II
+589,11/7/2023,Male,MSM,35,Thai,Lampang,TH-52,2/11/2023,Chiang Mai,TH-50,Clade II
+590,11/7/2023,Male,Gay,40,Thai,Samut Prakan†,TH-11,30/10/2023,Bangkok,TH-10,Clade II
+591,11/7/2023,Male,Gay,33,Thai,Bangkok,TH-10,3/11/2023,Bangkok,TH-10,Clade II
+592,11/7/2023,Male,TGW,42,Thai,Bangkok,TH-10,30/10/2023,Bangkok,TH-10,Clade II
+593,11/8/2023,Male,Gay,51,Thai,Nonthaburi,TH-12,4/11/2023,Bangkok,TH-10,Clade II
+594,11/8/2023,Male,LGBT,24,Thai,Surat Thani,TH-84,30/10/2023,Surat Thani,TH-84,Clade II
+595,11/8/2023,Male,MSM,51,Thai,Bangkok,TH-10,24/10/2023,Nonthaburi,TH-12,Clade II
+596,11/8/2023,Male,MSM,41,Thai,Bangkok,TH-10,3/11/2023,Nonthaburi,TH-12,Clade II
+597,11/8/2023,Male,Gay,33,Myanmar,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+598,11/9/2023,Male,Gay,32,Thai,Nonthaburi,TH-12,3/11/2023,Bangkok,TH-10,Clade II
+599,11/9/2023,Male,Gay,20,Thai,Bangkok,TH-10,30/10/2023,Nakhon Pathom,TH-73,Clade II
+600,11/9/2023,Male,MSM,35,Thai,Rayong,TH-21,3/11/2023,Chonburi,TH-20,Clade II
+601,11/9/2023,Male,Gay,31,Thai,Rayong,TH-21,7/11/2023,Rayong,TH-21,Clade II
+602,11/9/2023,Male,MSM,39,Thai,Khon Kaen,TH-40,8/11/2023,Khon Kaen,TH-40,Clade II
+603,11/9/2023,Male,Gay,47,Thai,Bangkok,TH-10,23/10/2023,Bangkok,TH-10,Clade II
+604,11/10/2023,Male,LGBT,44,Thai,Songkhla,TH-90,6/11/2023,Songkhla,TH-90,Clade II
+605,11/10/2023,Male,MSM,46,Thai,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+606,11/11/2023,Male,LGBT,37,Thai,Phuket,TH-83,12/10/2023,Phuket,TH-83,Clade II
+607,11/11/2023,Male,MSM,39,Thai,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+608,11/11/2023,Male,MSM,24,Thai,Bangkok,TH-10,6/11/2023,Bangkok,TH-10,Clade II
+609,11/11/2023,Male,MSM,36,Thai,Bangkok,TH-10,9/11/2023,Bangkok,TH-10,Clade II
+610,11/13/2023,Male,Bisexual,40,Thai,Chonburi,TH-20,8/11/2023,Chonburi,TH-20,Clade II
+611,11/13/2023,Male,MSM,35,Myanmar,Bangkok,TH-10,6/11/2023,Bangkok,TH-10,Clade II
+612,11/14/2023,Male,MSM,39,Thai,Bangkok,TH-10,8/11/2023,Bangkok,TH-10,Clade II
+613,11/14/2023,Male,Gay,26,Thai,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+614,11/15/2023,Male,Gay,37,Thai,Nonthaburi,TH-12,9/11/2023,Bangkok,TH-10,Clade II
+615,11/15/2023,Male,Gay,26,Thai,Pathum Thani†,TH-13,6/11/2023,Bangkok,TH-10,Clade II
+616,11/15/2023,Male,MSM,29,Thai,Nakhon Pathom,TH-73,9/11/2023,Bangkok,TH-10,Clade II
+617,11/15/2023,Male,MSM,37,Thai,Chonburi,TH-20,6/11/2023,Chonburi,TH-20,Clade II
+618,11/15/2023,Male,MSM,37,Thai,Bangkok,TH-10,11/11/2023,Bangkok,TH-10,Clade II
+619,11/15/2023,Male,MSM,29,Thai,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+620,11/16/2023,Male,MSM,33,Myanmar,Samut Prakan†,TH-11,8/11/2023,Samut Prakan†,TH-11,Clade II
+621,11/16/2023,Male,MSM,21,Myanmar,Khon Kaen,TH-40,13/11/2023,Khon Kaen,TH-40,Clade II
+622,11/16/2023,Male,MSM,27,Thai,Chonburi,TH-20,31/10/2023,Khon Kaen,TH-40,Clade II
+623,11/16/2023,Male,MSM,23,Thai,Surat Thani,TH-84,4/11/2023,Surat Thani,TH-84,Clade II
+624,11/16/2023,Male,MSM,38,Thai,Bangkok,TH-10,9/11/2023,Bangkok,TH-10,Clade II
+625,11/16/2023,Male,MSM,21,Laos,Bangkok,TH-10,5/11/2023,Bangkok,TH-10,Clade II
+626,11/16/2023,Male,MSM,25,Thai,Bangkok,TH-10,6/11/2023,Bangkok,TH-10,Clade II
+627,11/17/2023,Male,MSM,37,Thai,Chiang Mai,TH-50,13/11/2023,Chiang Mai,TH-50,Clade II
+628,11/17/2023,Male,MSM,42,Thai,Bangkok,TH-10,11/11/2023,Bangkok,TH-10,Clade II
+629,11/17/2023,Male,MSM,35,Thai,Bangkok,TH-10,28/10/2023,Bangkok,TH-10,Clade II
+630,11/18/2023,Male,Gay,47,Thai,Chiang Mai,TH-50,19/11/2023,Chiang Mai,TH-50,Clade II
+631,11/19/2023,Male,MSM,34,Thai,Chiang Mai,TH-50,10/11/2023,Chiang Mai,TH-50,Clade II
+632,11/19/2023,Male,MSM,54,Thai,Suphan Buri,TH-72,16/10/2023,Nonthaburi,TH-12,Clade II
+633,11/20/2023,Male,Bisexual,33,Thai,Samut Prakan†,TH-11,11/11/2023,Bangkok,TH-10,Clade II
+634,11/20/2023,Male,na,40,Thai,Bangkok,TH-10,17/11/2023,Bangkok,TH-10,Clade II
+635,11/20/2023,Male,MSM,25,Thai,Bangkok,TH-10,10/11/2023,Bangkok,TH-10,Clade II
+636,11/21/2023,Male,na,29,Thai,Khon Kaen,TH-40,17/11/2023,Khon Kaen,TH-40,Clade II
+637,11/22/2023,Male,MSM,25,Thai,Samut Prakan†,TH-11,19/11/2023,Samut Prakan†,TH-11,Clade II
+638,11/22/2023,Male,MSM,32,Thai,Samut Prakan†,TH-11,17/11/2023,Samut Prakan†,TH-11,Clade II
+639,11/22/2023,Male,MSM,23,Thai,Nong Khai,TH-43,16/11/2023,Nong Khai,TH-43,Clade II
+640,11/22/2023,Male,NA,50,Thai,Bangkok,TH-10,20/11/2023,Bangkok,TH-10,Clade II
+641,11/22/2023,Male,MSM,45,Thai,Bangkok,TH-10,14/11/2023,Bangkok,TH-10,Clade II
+642,11/24/2023,Male,MSM,35,Thai,Bangkok,TH-10,11/11/2023,Bangkok,TH-10,Clade II
+643,11/24/2023,Male,MSM,26,Thai,Bangkok,TH-10,19/11/2023,Bangkok,TH-10,Clade II
+644,11/24/2023,Male,MSM,46,Thai,Bangkok,TH-10,10/11/2023,Bangkok,TH-10,Clade II
+645,11/25/2023,Male,MSM,27,Thai,Chiang Mai,TH-50,14/11/2023,Chiang Mai,TH-50,Clade II
+646,11/25/2023,Male,MSM,42,Thai,Chiang Mai,TH-50,24/11/2023,Chiang Mai,TH-50,Clade II
+647,11/25/2023,Male,MSM,27,Thai,Bangkok,TH-10,16/11/2023,Bangkok,TH-10,Clade II
+648,11/25/2023,Male,MSM,33,Thai,Pathum Thani†,TH-13,17/11/2023,Bangkok,TH-10,Clade II
+649,11/26/2023,Male,MSM,42,Thai,Bangkok,TH-10,21/11/2023,Bangkok,TH-10,Clade II
+650,11/27/2023,Male,MSM,36,Thai,Chonburi,TH-20,10/11/2023,Chonburi,TH-20,Clade II
+651,11/27/2023,Male,MSM,28,Thai,Bangkok,TH-10,23/11/2023,Bangkok,TH-10,Clade II
+652,11/28/2023,Male,MSM,43,Chinese,Bangkok,TH-10,20/11/2023,Bangkok,TH-10,Clade II
+653,11/29/2023,Male,MSM,32,Thai,Chiang Rai,TH-57,24/11/2023,Chiang Rai,TH-57,Clade II
+654,11/29/2023,Male,MSM,28,Thai,Chiang Rai,TH-57,26/11/2023,Chiang Rai,TH-57,Clade II
+655,11/29/2023,Male,MSM,22,Thai,Bangkok,TH-10,25/11/2023,Bangkok,TH-10,Clade II
+656,12/1/2023,Male,LGBT,47,Thai,Chiang Mai,TH-50,27/11/2023,Chiang Mai,TH-50,Clade II
+657,12/1/2023,Male,LGBT,25,Brazil,Chiang Mai,TH-50,25/11/2023,Chiang Mai,TH-50,Clade II
+658,12/1/2023,Male,MSM,26,Thai,Bangkok,TH-10,15/11/2023,Bangkok,TH-10,Clade II
+659,12/1/2023,Male,Gay,38,Thai,Bangkok,TH-10,22/11/2023,Bangkok,TH-10,Clade II
+660,12/2/2023,Male,MSM,35,Thai,Chonburi,TH-20,29/11/2023,Chonburi,TH-20,Clade II
+661,12/2/2023,Male,MSM,33,Thai,Bangkok,TH-10,20/11/2023,Bangkok,TH-10,Clade II
+662,12/2/2023,Male,Gay,41,Thai,Bangkok,TH-10,27/11/2023,Bangkok,TH-10,Clade II
+663,12/4/2023,Male,MSM,44,Thai,Bangkok,TH-10,24/11/2023,Bangkok,TH-10,Clade II
+664,12/4/2023,Male,Gay,37,Thai,Bangkok,TH-10,27/11/2023,Bangkok,TH-10,Clade II
+665,12/4/2023,Male,Bisexual,41,Thai,Bangkok,TH-10,15/11/2023,Bangkok,TH-10,Clade II
+666,12/4/2023,Male,Bisexual,26,Thai,Bangkok,TH-10,29/11/2023,Bangkok,TH-10,Clade II
+667,12/7/2023,Male,MSM,25,Chinese,Bangkok,TH-10,28/11/2023,Nonthaburi,TH-12,Clade II
+668,12/8/2023,Male,Hetero,51,Australia,Chonburi,TH-20,29/11/2023,Chonburi,TH-20,Clade II
+669,12/9/2023,Male,MSM,34,Thai,Pathum Thani†,TH-13,29/11/2023,Bangkok,TH-10,Clade II
+670,12/9/2023,Male,MSM,37,Thai,Nonthaburi,TH-12,5/12/2023,Nonthaburi,TH-12,Clade II
+671,12/12/2023,Male,MSM,33,Thai,Nakhon Ratchasima,TH-30,4/12/2023,Nakhon Ratchasima,TH-30,Clade II
+672,12/13/2023,Male,MSM,35,Thai,Bangkok,TH-10,10/11/2023,Bangkok,TH-10,Clade II
+673,12/13/2023,Male,MSM,33,Thai,Bangkok,TH-10,27/11/2023,Chonburi,TH-20,Clade II
+674,12/15/2023,Male,MSM,25,Thai,Suphan Buri,TH-72,16/11/2023,Suphan Buri,TH-72,Clade II
+675,12/15/2023,Male,MSM,33,Thai,Bangkok,TH-10,2/12/2023,Bangkok,TH-10,Clade II
+676,12/15/2023,Male,Gay,37,Thai,Samut Songkhram,TH-75,29/11/2023,Bangkok,TH-10,Clade II
+677,12/16/2023,Male,MSM,25,Thai,Bangkok,TH-10,13/12/2023,Bangkok,TH-10,Clade II
+678,12/18/2023,Male,Gay,30,NA,Bangkok,TH-10,12/12/2023,Bangkok,TH-10,Clade II
+679,12/19/2023,Male,LGBT,23,Thai,Kalasin,TH-46,15/11/2023,Kalasin,TH-46,Clade II
+680,12/19/2023,Male,Gay,23,Thai,Bangkok,TH-10,2/12/2023,Bangkok,TH-10,Clade II
+681,12/20/2023,Male,Hetero,38,Thai,Nakhon Si Thammarat,TH-80,13/12/2023,Nonthaburi,TH-12,Clade II
+682,12/21/2023,Male,lgbt,30,Thai,Khon Kaen,TH-40,8/12/2023,Khon Kaen,TH-40,Clade II
+683,12/22/2023,Male,MSM,40,Thai,Pathum Thani†,TH-13,18/12/2023,Pathum Thani†,TH-13,Clade II
+684,12/23/2023,Male,MSM,35,Thai,Samut Prakan†,TH-11,16/12/2023,Nakhon Ratchasima,TH-30,Clade II
+685,12/23/2023,Male,MSM,38,Thai,Bangkok,TH-10,16/12/2023,Bangkok,TH-10,Clade II
+686,12/26/2023,Male,MSM,37,Thai,Lampang,TH-52,18/12/2023,Lampang,TH-52,Clade II
+687,12/27/2023,Male,MSM,29,Thai,Rayong,TH-21,10/12/2023,Rayong,TH-21,Clade II
+688,12/28/2023,Male,MSM,42,Thai,Bangkok,TH-10,24/12/2023,Bangkok,TH-10,Clade II
+689,8/22/2023,Male,MSM,25,Thai,Samut Prakan†,TH-11,14/8/2023,Samut Prakan†,TH-11,Clade II
+690,8/25/2023,Male,MSM,37,Thai,Chachoengsao,TH-24,15/8/2023,Samut Prakan†,TH-11,Clade II
+691,1/5/2024,Male,MSM,42,Thai,Rayong,TH-21,27/12/2023,Rayong,TH-21,Clade II
+692,1/5/2024,Male,MSM,44,Thai,Bangkok,TH-10,25/12/2023,Bangkok,TH-10,Clade II
+693,1/5/2024,Male,Gay,29,Myanmar,Bangkok,TH-10,1/1/2024,Bangkok,TH-10,Clade II
+694,1/6/2024,Male,MSM,23,Thai,Nakhon Ratchasima,TH-30,31/12/2023,Nakhon Ratchasima,TH-30,Clade II
+695,1/7/2024,Male,Hetero,40,Thai,Khon Kaen,TH-40,18/12/2023,Khon Kaen,TH-40,Clade II
+696,1/8/2024,Male,Gay,NA,Laos,Bangkok,TH-10,1/1/2024,Bangkok,TH-10,Clade II
+697,1/9/2024,Male,MSM,21,Thai,Udon Thani,TH-41,5/1/2024,Udon Thani,TH-41,Clade II
+698,1/12/2024,Male,LGBT,39,Thai,Samut Prakan†,TH-11,6/1/2024,Bangkok,TH-10,Clade II
+699,1/12/2024,Male,MSM,45,Thai,Udon Thani,TH-41,9/1/2024,Udon Thani,TH-41,Clade II
+700,1/12/2024,Male,Gay,42,Thai,Bangkok,TH-10,2/1/2024,Bangkok,TH-10,Clade II
+701,1/14/2024,Male,MSM,41,Thai,Chiang Mai,TH-50,5/1/2024,Chiang Mai,TH-50,Clade II
+702,1/15/2024,Male,MSM,43,Thai,Khon Kaen,TH-40,2/1/2024,Khon Kaen,TH-40,Clade II
+703,1/15/2024,Male,MSM,24,Thai,Udon Thani,TH-41,13/12/2023,Udon Thani,TH-41,Clade II
+704,1/15/2024,Male,MSM,39,Thai,Krabi,TH-81,9/1/2024,Krabi,TH-81,Clade II
+705,1/15/2024,Male,Hetero,30,Thai,Songkhla,TH-90,10/1/2024,Songkhla,TH-90,Clade II
+706,1/15/2024,Male,MSM,34,Thai,Bangkok,TH-10,9/1/2024,Bangkok,TH-10,Clade II
+707,1/16/2024,Male,MSM,30,Thai,Samut Prakan†,TH-11,9/1/2024,Bangkok,TH-10,Clade II
+708,1/16/2024,Male,Bisexual,33,Thai,Maha Sarakham,TH-44,12/1/2024,Maha Sarakham,TH-44,Clade II
+709,1/16/2024,Male,MSM,28,Thai,Songkhla,TH-90,1/1/2024,Nonthaburi,TH-12,Clade II
+710,1/16/2024,Male,MSM,30,Thai,Songkhla,TH-90,28/12/2023,Songkhla,TH-90,Clade II
+711,1/17/2024,Male,MSM,26,Thai,Chonburi,TH-20,1/1/2024,Chonburi,TH-20,Clade II
+712,1/17/2024,Male,MSM,22,Thai,Chonburi,TH-20,11/1/2024,Chonburi,TH-20,Clade II
+713,1/17/2024,Male,MSM,27,Thai,Khon Kaen,TH-40,13/1/2024,Khon Kaen,TH-40,Clade II
+714,1/17/2024,Male,Gay,27,Thai,Bangkok,TH-10,8/1/2024,Bangkok,TH-10,Clade II
+715,1/19/2024,Male,LGBT,28,Thai,Bangkok,TH-10,4/1/2024,Bangkok,TH-10,Clade II
+716,1/19/2024,Male,MSM,28,Russian,Bangkok,TH-10,8/1/2024,Bangkok,TH-10,Clade II
+717,1/20/2024,Male,Gay,36,Thai,Chiang Mai,TH-50,14/1/2024,Chiang Mai,TH-50,Clade II
+718,1/21/2024,Male,MSM,30,Thai,Lamphun ,TH-51,16/1/2024,Chiang Mai,TH-50,Clade II
+719,1/21/2024,Male,MSM,47,Thai,Nonthaburi,TH-12,9/1/2024,Bangkok,TH-10,Clade II
+720,1/23/2024,Male,Gay,30,Thai,Bangkok,TH-10,15/1/2024,Bangkok,TH-10,Clade II
+721,1/24/2024,Male,Gay,51,Thai,Pathum Thani†,TH-13,17/1/2024,Bangkok,TH-10,Clade II
+722,1/24/2024,Male,MSM,23,Thai,Pathum Thani†,TH-13,10/1/2024,Bangkok,TH-10,Clade II
+723,1/29/2024,Male,MSM,43,Thai,Loei,TH-42,21/1/2024,Khon Kaen,TH-40,Clade II
+724,1/31/2024,Male,MSM,28,Thai,Bangkok,TH-10,17/1/2024,Nonthaburi,TH-12,Clade II
+725,2/3/2024,Male,MSM,40,Thai,Bangkok,TH-10,28/1/2024,Bangkok,TH-10,Clade II
+726,2/5/2024,Male,MSM,33,Thai,Bangkok,TH-10,2/2/2024,Bangkok,TH-10,Clade II
+727,2/7/2024,Male,MSM,23,Laos,Bangkok,TH-10,31/1/2024,Bangkok,TH-10,Clade II
+728,2/8/2024,Male,LGBT,44,Thai,Bangkok,TH-10,22/1/2024,Bangkok,TH-10,Clade II
+729,2/9/2024,Male,MSM,31,Thai,Suphan Buri,TH-72,NA,Suphan Buri,TH-72,Clade II
+730,2/11/2024,Male,NA,25,Thai,Pathum Thani†,TH-13,6/2/2024,Bangkok,TH-10,Clade II
+731,2/11/2024,Male,MSM,23,Thai,Khon Kaen,TH-40,5/2/2024,Khon Kaen,TH-40,Clade II
+732,2/12/2024,Male,Gay,31,Thai,Bangkok,TH-10,21/1/2024,Bangkok,TH-10,Clade II
+733,2/13/2024,Male,MSM,23,Thai,Chiang Mai,TH-50,17/1/2024,Chiang Mai,TH-50,Clade II
+734,2/14/2024,Male,MSM,26,Thai,Nakhon Ratchasima,TH-30,7/2/2024,Nakhon Ratchasima,TH-30,Clade II
+735,2/17/2024,Male,MSM,36,Thai,Bangkok,TH-10,9/2/2024,Bangkok,TH-10,Clade II
+736,2/17/2024,Male,MSM,32,Thai,Bangkok,TH-10,1/2/2024,Bangkok,TH-10,Clade II
+737,2/19/2024,Male,MSM,51,Thai,Nakhon Ratchasima,TH-30,12/2/2024,Ubon Ratchathani,TH-34,Clade II
+738,2/19/2024,Male,Gay,28,Thai,Bangkok,TH-10,14/2/2024,Bangkok,TH-10,Clade II
+739,2/20/2024,Male,MSM,45,Russian,Bangkok,TH-10,14/2/2024,Bangkok,TH-10,Clade II
+740,2/21/2024,Male,MSM,30,Chinese,Bangkok,TH-10,16/2/2024,Bangkok,TH-10,Clade II
+741,2/21/2024,Male,LGBT,41,Thai,Bangkok,TH-10,14/2/2024,Bangkok,TH-10,Clade II
+742,2/21/2024,Male,Gay,37,Thai,Bangkok,TH-10,27/1/2024,Bangkok,TH-10,Clade II
+743,2/22/2024,Male,MSM,25,Thai,Chiang Mai,TH-50,14/2/2024,Chiang Mai,TH-50,Clade II
+744,2/22/2024,Male,MSM,27,Thai,Bangkok,TH-10,17/2/2024,Bangkok,TH-10,Clade II
+745,2/24/2024,Male,Gay,40,Thai,Bangkok,TH-10,9/2/2024,Bangkok,TH-10,Clade II
+746,2/27/2024,Male,MSM,41,Iceland,Bangkok,TH-10,22/2/2024,Bangkok,TH-10,Clade II
+747,2/27/2024,Male,Gay,32,Thai,Pathum Thani†,TH-13,20/2/2024,Pathum Thani†,TH-13,Clade II
+748,2/29/2024,Male,MSM,25,Thai,Bangkok,TH-10,10/1/2024,Õ”π“®‡®√‘≠,,Clade II
+749,2/29/2024,Male,MSM,30,Thai,Bangkok,TH-10,20/2/2024,Bangkok,TH-10,Clade II
+750,3/1/2024,Male,MSM,27,Thai,Chiang Mai,TH-50,28/2/2024,Chiang Mai,TH-50,Clade II
+751,3/5/2024,Male,LGBT,42,Myanmar,Bangkok,TH-10,28/2/2024,Bangkok,TH-10,Clade II
+752,3/8/2024,Male,MSM,34,Thai,Rayong,TH-21,30/11/2023,Rayong,TH-21,Clade II
+753,3/11/2024,Male,Bisexual,45,Thai,Nakhon Sawan,TH-60,21/2/2024,Nakhon Sawan,TH-60,Clade II
+754,3/20/2024,Male,MSM,36,Thai,Bangkok,TH-10,16/3/2024,Bangkok,TH-10,Clade II
+755,3/21/2024,Male,MSM,26,Filipino,Surat Thani,TH-84,18/3/2024,Surat Thani,TH-84,Clade II
+756,3/25/2024,Male,LGBT,31,Thai,Pathum Thani†,TH-13,16/3/2024,Pathum Thani†,TH-13,Clade II
+757,3/26/2024,Male,MSM,33,Myanmar,Chiang Mai,TH-50,21/2/2024,Chiang Mai,TH-50,Clade II
+758,3/29/2024,Male,Bisexual,37,Thai,Bangkok,TH-10,19/3/2024,Bangkok,TH-10,Clade II
+759,3/31/2024,Male,MSM,45,Thai,Phetchabun ,TH-67,13/3/2024,Phitsanulok ,TH-65,Clade II
+760,4/1/2024,Male,MSM,38,Thai,Chiang Mai,TH-50,24/3/2024,Chiang Mai,TH-50,Clade II
+761,4/2/2024,Male,MSM,27,Thai,Lampang,TH-52,6/3/2024,Lampang,TH-52,Clade II
+762,4/5/2024,Male,MSM,29,UK,Chiang Mai,TH-50,24/3/2024,Chiang Mai,TH-50,Clade II
+763,4/10/2024,Male,MSM,25,Thai,Bangkok,TH-10,27/3/2024,Samut Prakan†,TH-11,Clade II
+764,4/11/2024,Male,Bisexual,52,Thai,Bangkok,TH-10,3/4/2024,Nonthaburi,TH-12,Clade II
+765,4/17/2024,Male,Hetero,34,Thai,Rayong,TH-21,8/4/2024,Chonburi,TH-20,Clade II
+766,4/17/2024,Male,MSM,29,Thai,Rayong,TH-21,6/4/2024,Rayong,TH-21,Clade II
+767,4/19/2024,Male,MSM,39,Thai,Bangkok,TH-10,12/4/2024,Bangkok,TH-10,Clade II
+768,4/20/2024,Male,LGBT,33,Thai,Samut Prakan†,TH-11,4/4/2024,Samut Prakan†,TH-11,Clade II
+769,4/20/2024,Male,MSM,42,Thai,Bangkok,TH-10,28/3/2024,Bangkok,TH-10,Clade II
+770,4/22/2024,Male,Hetero,43,Thai,Pathum Thani†,TH-13,15/4/2024,Pathum Thani†,TH-13,Clade II
+771,4/22/2024,Male,MSM,26,Thai,Bangkok,TH-10,12/4/2024,Nonthaburi,TH-12,Clade II
+772,4/23/2024,Male,MSM,24,Thai,Rayong,TH-21,12/4/2024,Chonburi,TH-20,Clade II
+773,4/24/2024,Male,MSM,30,Thai,Udon Thani,TH-41,18/4/2024,Udon Thani,TH-41,Clade II
+774,4/24/2024,Male,LGBT,29,Russian,Phuket,TH-83,15/4/2024,Phuket,TH-83,Clade II
+775,4/26/2024,Male,MSM,28,Thai,Bangkok,TH-10,18/4/2024,Bangkok,TH-10,Clade II
+776,4/27/2024,Male,LGBT,25,Thai,Udon Thani,TH-41,24/4/2024,Udon Thani,TH-41,Clade II
+777,4/30/2024,Male,MSM,26,Thai,Bangkok,TH-10,21/4/2024,Bangkok,TH-10,Clade II
+778,5/1/2024,Male,MSM,32,Thai,Rayong,TH-21,28/4/2024,Chonburi,TH-20,Clade II
+779,5/7/2024,Male,Bisexual,29,Thai,Lamphun ,TH-51,28/4/2024,Lamphun ,TH-51,Clade II
+780,5/7/2024,Male,MSM,20,Thai,Rayong,TH-21,1/5/2024,Rayong,TH-21,Clade II
+781,5/8/2024,Male,MSM,38,Thai,Chiang Mai,TH-50,18/4/2024,Chiang Mai,TH-50,Clade II
+782,5/10/2024,Male,Gay,38,Thai,Nonthaburi,TH-12,30/4/2024,Bangkok,TH-10,Clade II
+783,5/11/2024,Male,MSM,44,Thai,Bangkok,TH-10,22/4/2024,Bangkok,TH-10,Clade II
+784,5/13/2024,Male,NA,40,Columbia,Bangkok,TH-10,14/5/2024,Bangkok,TH-10,Clade II
+785,5/14/2024,Male,MSM,40,Thai,Bangkok,TH-10,4/5/2024,Bangkok,TH-10,Clade II
+786,5/14/2024,Male,Bisexual,24,Thai,Rayong,TH-21,6/5/2024,Rayong,TH-21,Clade II
+787,5/14/2024,Male,MSM,34,Thai,Chonburi,TH-20,1/5/2024,Chonburi,TH-20,Clade II
+788,5/14/2024,Male,NA,51,Thai,Bangkok,TH-10,11/5/2024,Bangkok,TH-10,Clade II
+789,5/15/2024,Male,MSM,54,Thai,Rayong,TH-21,11/5/2024,Rayong,TH-21,Clade II
+790,5/17/2024,Male,MSM,38,Thai,Lamphun ,TH-51,14/5/2024,Chiang Mai,TH-50,Clade II
+791,5/20/2024,Male,Bisexual,41,Thai,Chonburi,TH-20,14/5/2024,Chonburi,TH-20,Clade II
+792,5/21/2024,Male,MSM,35,Thai,Nonthaburi,TH-12,29/5/2024,Nonthaburi,TH-12,Clade II
+793,5/23/2024,Male,Hetero,48,Thai,Rayong,TH-21,18/5/2024,Rayong,TH-21,Clade II
+794,5/24/2024,Male,MSM,37,Laos,Bangkok,TH-10,13/5/2024,Bangkok,TH-10,Clade II
+795,5/25/2024,Male,NA,27,Thai,Rayong,TH-21,21/5/2024,Rayong,TH-21,Clade II
+796,5/26/2024,Male,Gay,35,Thai,Khon Kaen,TH-40,18/5/2024,Maha Sarakham,TH-44,Clade II
+797,5/28/2024,Male,MSM,32,Thai,Bangkok,TH-10,17/5/2024,Bangkok,TH-10,Clade II
+798,5/31/2024,Male,MSM,36,Taiwan,Taiwan,,12/5/2023,Taiwan,,Clade II
+799,6/5/2024,Male,MSM,44,Thai,Rayong,TH-21,15/5/2024,Rayong,TH-21,Clade II
+800,6/5/2024,Female,Hetero,72,Ireland,Surat Thani,TH-84,29/5/2024,Surat Thani,TH-84,Clade II
+801,6/10/2024,Male,MSM,41,Thai,Bangkok,TH-10,30/5/2024,Bangkok,TH-10,Clade II
+802,6/12/2024,Male,MSM,32,Thai,Lopburi,TH-16,6/6/2024,Lopburi,TH-16,Clade II
+803,6/13/2024,Male,MSM,34,Thai,Nonthaburi,TH-12,4/6/2024,Nonthaburi,TH-12,Clade II
+804,6/18/2024,Male,NA,26,Thai,Bangkok,TH-10,14/6/2024,Bangkok,TH-10,Clade II
+805,6/25/2024,Male,Bisexual,39,Thai,Bangkok,TH-10,17/6/2024,Bangkok,TH-10,Clade II
+806,6/28/2024,Male,MSM,27,Thai,Bangkok,TH-10,15/6/2024,Bangkok,TH-10,Clade II
+807,7/1/2024,Male,MSM,26,Thai,Suphan Buri,TH-72,28/6/2024,Suphan Buri,TH-72,Clade II
+808,7/3/2024,Male,MSM,45,Thai,Lamphun ,TH-51,26/6/2024,Chiang Mai,TH-50,Clade II
+809,7/3/2024,Male,Gay,43,Thai,Songkhla,TH-90,3/7/2024,Songkhla,TH-90,Clade II
+810,7/5/2024,Male,MSM,35,Thai,Bangkok,TH-10,1/7/2024,Bangkok,TH-10,Clade II
+811,7/6/2024,Male,MSM,36,Thai,Lamphun ,TH-51,1/7/2024,Chiang Mai,TH-50,Clade II
+812,7/9/2024,Male,NA,23,Thai,Chonburi,TH-20,6/7/2024,Chonburi,TH-20,Clade II
+813,7/9/2024,Male,Gay,30,Thai,Songkhla,TH-90,1/7/2024,Songkhla,TH-90,Clade II
+814,7/10/2024,Female,Hetero,41,Thai,Ang Thong,TH-15,2/7/2024,Bangkok,TH-10,Clade II
+815,7/12/2024,Male,Gay,36,Thai,Songkhla,TH-90,24/6/2024,Songkhla,TH-90,Clade II
+816,7/13/2024,Male,MSM,31,American,Bangkok,TH-10,2/7/2024,Bangkok,TH-10,Clade II
+817,7/20/2024,Male,MSM,32,Thai,Lamphun ,TH-51,10/7/2024,Chiang Mai,TH-50,Clade II
+818,7/15/2024,Male,MSM,41,Thai,Chonburi,TH-20,12/7/2024,Chonburi,TH-20,Clade II
+819,7/17/2024,Male,Gay,26,Thai,Chonburi,TH-20,1/7/2024,Chonburi,TH-20,Clade II
+820,7/19/2024,Male,MSM,42,Thai,Chonburi,TH-20,17/7/2024,Chonburi,TH-20,Clade II
+821,7/15/2024,Male,Gay,25,Thai,Songkhla,TH-90,8/7/2024,Songkhla,TH-90,Clade II
+822,7/24/2024,Male,MSM,26,Thai,Rayong,TH-21,15/7/2024,Rayong,TH-21,Clade II
+823,7/23/2024,Male,Gay,22,Thai,Songkhla,TH-90,12/7/2024,Songkhla,TH-90,Clade II
+824,7/28/2024,Male,MSM,41,Thai,Chonburi,TH-20,26/7/2024,Chonburi,TH-20,Clade II
+825,8/2/2024,Male,MSM,26,Thai,Rayong,TH-21,25/7/2024,Rayong,TH-21,Clade II
+826,8/5/2024,Male,MSM,37,Indonesia,Chonburi,TH-20,1/8/2024,Chonburi,TH-20,Clade II
+827,8/5/2024,Male,LGBT,37,Thai,Chonburi,TH-20,2/8/2024,Chonburi,TH-20,Clade II
+828,8/7/2024,Male,MSM,29,Thai,Chonburi,TH-20,28/7/2024,Chonburi,TH-20,Clade II
+829,8/7/2024,Male,MSM,26,Thai,Rayong,TH-21,29/7/2024,Rayong,TH-21,Clade II
+830,8/8/2024,Male,MSM,39,Thai,Chonburi,TH-20,30/7/2024,Chonburi,TH-20,Clade II
+831,8/16/2024,Male,Hetero,37,Thai,Chonburi,TH-20,6/8/2024,Chonburi,TH-20,Clade II
+832,8/17/2024,Male,MSM,25,Thai,Bangkok,TH-10,3/8/2024,Bangkok,TH-10,Clade II
+833,8/22/2024,Male,MSM,32,Thai,Chonburi,TH-20,17/8/2024,Chonburi,TH-20,Clade II
+834,8/24/2024,Male,MSM,35,Thai,Chonburi,TH-20,19/8/2024,Chonburi,TH-20,Clade II
+835,8/19/2024,Male,Hetero,66,Germany,Bangkok,TH-10,10/8/2024,Bangkok,TH-10,Clade Ib
+836,8/30/2024,Male,MSM,54,Thai,Nakhon Pathom,TH-73,22/8/2024,Samut Sakhon†,TH-74,Clade II
+837,9/3/2024,Male,MSM,32,Thai,Bangkok,TH-10,20/8/2024,Bangkok,TH-10,Clade II
+838,9/6/2024,Male,MSM,39,Thai,Bangkok,TH-10,31/8/2024,Bangkok,TH-10,Clade II
+839,9/14/2024,Male,LGBT,24,Thai,Prachinburi,TH-25,8/9/2024,Chachoengsao,TH-24,Clade II
+840,9/14/2024,Male,MSM,34,Thai,Rayong,TH-21,1/9/2024,Chachoengsao,TH-24,Clade II
+841,9/11/2024,Male,MSM,23,Thai,Songkhla,TH-90,29/8/2024,Songkhla,TH-90,Clade II
+842,9/24/2024,Male,MSM,40,Thai,Chonburi,TH-20,17/9/2024,Chonburi,TH-20,Clade II
+843,9/27/2024,Male,LGBT,60,British,Bangkok,TH-10,24/9/2024,Bangkok,TH-10,Clade II
+844,9/27/2024,Male,MSM,42,Thai,Bangkok,TH-10,19/9/2024,Bangkok,TH-10,Clade II
+845,10/1/2024,Male,MSM,38,Thai,Chonburi,TH-20,25/9/2024,Chonburi,TH-20,Clade II
+846,10/3/2024,Male,MSM,33,Taiwan,Chiang Mai,TH-50,17/9/2024,Taiwan,,Clade II
+847,10/3/2024,Male,MSM,35,Thai,Nonthaburi,TH-12,29/9/2024,Nonthaburi,TH-12,Clade II
+848,10/7/2024,Male,MSM,24,Laos,Rayong,TH-21,3/10/2024,Rayong,TH-21,Clade II
+849,10/7/2024,Male,Bisexual,55,French,Phuket,TH-83,1/10/2024,Phuket,TH-83,Clade II
+850,10/10/2024,Male,MSM,39,Thai,Bangkok,TH-10,30/9/2024,Nonthaburi,TH-12,Clade II
+851,10/10/2024,Male,MSM,52,Thai,Bangkok,TH-10,30/9/2024,Nonthaburi,TH-12,Clade II
+852,10/10/2024,Male,Bisexual,27,Cambodia,Bangkok,TH-10,3/10/2024,Bangkok,TH-10,Clade II
+853,10/17/2024,Male,MSM,31,Thai,Nonthaburi,TH-12,9/10/2024,Nonthaburi,TH-12,Clade II
+854,10/16/2024,Male,MSM,32,Thai,Bangkok,TH-10,4/10/2024,Nonthaburi,TH-12,Clade II
+855,10/21/2024,Male,NA,39,Thai,Pathum Thani†,TH-13,5/10/2024,Pathum Thani†,TH-13,Clade II
+856,10/24/2024,Male,LGBT,35,Thai,Chonburi,TH-20,15/10/2024,Chonburi,TH-20,Clade II
+857,10/21/2024,Male,MSM,37,Germany,Surat Thani,TH-84,13/10/2024,Surat Thani,TH-84,Clade II
+858,10/25/2024,Male,MSM,44,Thai,Bangkok,TH-10,9/10/2024,Bangkok,TH-10,Clade II
+859,10/30/2024,Male,MSM,40,Thai,Chonburi,TH-20,22/10/2024,Chonburi,TH-20,Clade II
+860,11/2/2024,Male,MSM,23,Thai,Surat Thani,TH-84,9/10/2024,Surat Thani,TH-84,Clade II
+861,10/29/2024,Male,MSM,47,Thai,Bangkok,TH-10,24/10/2024,Bangkok,TH-10,Clade II
+862,11/6/2024,Male,Bisexual,30,Myanmar,Bangkok,TH-10,1/11/2024,Bangkok,TH-10,Clade II
+863,11/9/2024,Male,LGBT,30,Thai,Bangkok,TH-10,5/11/2024,Bangkok,TH-10,Clade II
+864,11/19/2024,Male,MSM,28,Thai,Chonburi,TH-20,5/11/2024,Rayong,TH-21,Clade II
+865,11/21/2024,Male,MSM,35,Spanish,Bangkok,TH-10,17/11/2024,Bangkok,TH-10,Clade II
+866,12/27/2024,Male,MSM,48,Thai,Phra Nakhon Si Ayutthaya,TH-14,20/12/2024,Phra Nakhon Si Ayutthaya,TH-14,Clade II
+867,1/9/2025,Female,Hetero,39,Thai,Dubai,,24/12/2024,Chaiyaphum,TH-36,Clade Ib
+868,1/18/2025,Female,Hetero,44,Thai,Dubai,,11/1/2025,Chonburi,TH-20,Clade Ib
+869,1/14/2025,Male,MSM,29,Thai,Bangkok,TH-10,6/1/2025,Bangkok,TH-10,Clade II
+870,1/23/2025,Female,Hetero,37,Thai,Dubai,,12/1/2025,Nonthaburi,TH-12,Clade Ib
+871,2/3/2025,Male,MSM,37,Thai,Phuket,TH-83,27/12/2024,Phuket,TH-83,Clade II
+872,2/7/2025,Male,MSM,27,Thai,Phuket,TH-83,5/2/2025,Phuket,TH-83,Clade II
+873,2/18/2025,Male,LGBT,33,Israel,Surat Thani,TH-84,6/2/2025,Surat Thani,TH-84,Clade II
+874,3/15/2025,Male,MSM,38,Polish,Chiang Mai,TH-50,9/3/2025,Chiang Mai,TH-50,Clade II
+875,3/14/2025,Male,MSM,35,Thai,Nonthaburi,TH-12,5/3/2025,Bangkok,TH-10,Clade II
+876,4/3/2025,Female,Hetero,45,Thai,Dubai,,19/3/2025,Nonthaburi,TH-12,Clade Ib
+877,4/10/2025,Male,MSM,34,Thai,Nonthaburi,TH-12,6/4/2025,Bangkok,TH-10,Clade II
+878,4/25/2025,Male,LGBT,39,Thai,Pathum Thani†,TH-13,17/4/2025,Bangkok,TH-10,Clade II
+879,4/25/2025,Male,Hetero,29,Thai,Phuket,TH-83,13/4/2025,Krabi,TH-81,Clade II
+880,4/30/2025,Male,MSM,32,Thai,Nakhon Ratchasima,TH-30,12/4/2025,Nakhon Ratchasima,TH-30,Clade II
+881,4/29/2025,Male,LGBT,26,Thai,Surat Thani,TH-84,25/4/2025,Surat Thani,TH-84,Clade II
+882,4/29/2025,Male,LGBT,25,Thai,Surat Thani,TH-84,21/4/2025,Surat Thani,TH-84,Clade II
+883,4/30/2025,Male,MSM,22,Thai,Surat Thani,TH-84,26/4/2025,Surat Thani,TH-84,Clade II
+884,4/30/2025,Male,MSM,50,Thai,Lampang,TH-52,16/4/2025,Chiang Mai,TH-50,Clade II
+885,5/2/2025,Male,MSM,36,Thai,Nonthaburi,TH-12,24/4/2025,Bangkok,TH-10,Clade II
+886,5/3/2025,Male,MSM,42,Thai,Nonthaburi,TH-12,25/4/2025,Bangkok,TH-10,Clade II
+887,5/16/2025,Male,MSM,32,Myanmar,Nonthaburi,TH-12,8/5/2025,Nonthaburi,TH-12,Clade II
+888,5/16/2025,Male,Hetero,42,Thai,Nonthaburi,TH-12,7/5/2025,Nonthaburi,TH-12,Clade II
+889,5/22/2025,Male,MSM,45,Thai,Bangkok,TH-10,5/5/2025,Surat Thani,TH-84,Clade II
+890,5/24/2025,Male,MSM,39,Thai,Phuket,TH-83,19/5/2025,Phuket,TH-83,Clade II
+891,5/27/2025,Male,Hetero,29,Thai,Samut Prakan†,TH-11,20/5/2025,Samut Prakan†,TH-11,Clade II
+892,5/28/2025,Male,LGBT,24,Thai,Chonburi,TH-20,24/5/2025,Chonburi,TH-20,Clade II
+893,5/28/2025,Male,MSM,39,Thai,Phuket,TH-83,20/5/2025,Phuket,TH-83,Clade II
+894,5/30/2025,Male,NA,29,Thai,Phuket,TH-83,14/5/2025,Phuket,TH-83,Clade II
+895,6/5/2025,Male,MSM,39,Thai,Chonburi,TH-20,17/5/2025,Chonburi,TH-20,Clade II
+896,6/5/2025,Male,Gay,26,Thai,Nonthaburi,TH-12,28/5/2025,Nonthaburi,TH-12,Clade II
+897,6/7/2025,Male,NA,30,Thai,Chiang Mai,TH-50,1/6/2025,Chiang Mai,TH-50,Clade II
+898,6/13/2025,Male,Bisexual,39,Thai,Nonthaburi,TH-12,4/6/2025,Nonthaburi,TH-12,Clade II
+899,6/18/2025,Male,MSM,37,Thai,Chonburi,TH-20,30/5/2025,Chonburi,TH-20,Clade II
+900,6/20/2025,Male,MSM,34,Thai,Bangkok,TH-10,13/6/2025,Nonthaburi,TH-12,Clade II
+901,6/20/2025,Male,MSM,48,Thai,Bangkok,TH-10,16/6/2025,Nonthaburi,TH-12,Clade II
+902,6/21/2025,Male,MSM,30,Thai,Nonthaburi,TH-12,13/6/2025,Nonthaburi,TH-12,Clade II
+903,6/23/2025,Male,MSM,23,Thai,Phuket,TH-83,17/6/2025,Phuket,TH-83,Clade II
+904,6/20/2025,Male,MSM,25,Thai,Yala,TH-95,13/6/2025,Songkhla,TH-90,Clade II
+905,6/24/2025,Male,MSM,32,Thai,Samut Prakan†,TH-11,18/6/2025,Nonthaburi,TH-12,Clade II
+906,6/30/2025,Male,MSM,38,Thai,Chiang Mai,TH-50,23/6/2025,Chiang Mai,TH-50,Clade II
+907,7/2/2025,Male,MSM,34,Thai,Samut Prakan†,TH-11,24/6/2025,Samut Prakan†,TH-11,Clade II
+908,7/2/2025,Male,MSM,22,Thai,Pathum Thani†,TH-13,26/6/2025,Pathum Thani†,TH-13,Clade II
+909,7/8/2025,Male,MSM,32,Thai,Bangkok,TH-10,23/6/2025,Nonthaburi,TH-12,Clade II
+910,7/8/2025,Male,MSM,33,Thai,Samut Prakan†,TH-11,28/6/2025,Nonthaburi,TH-12,Clade II
+911,7/9/2025,Male,MSM,33,Thai,Chonburi,TH-20,27/6/2025,Chonburi,TH-20,Clade II
+912,7/10/2025,Male,MSM,35,Thai,Chonburi,TH-20,18/6/2025,Chonburi,TH-20,Clade II
+913,7/16/2025,Male,MSM,35,Thai,Chonburi,TH-20,12/7/2025,Chonburi,TH-20,Clade II
+914,7/21/2025,Male,MSM,27,Thai,Phrae,TH-54,19/7/2025,Phrae,TH-54,Clade II
+915,7/21/2025,Male,MSM,21,Thai,Chonburi,TH-20,13/7/2025,Chonburi,TH-20,Clade II
+916,7/25/2025,Male,MSM,29,Thai,Pathum Thani†,TH-13,12/7/2025,Pathum Thani†,TH-13,Clade II
+917,7/25/2025,Male,MSM,33,Thai,Samut Prakan†,TH-11,21/7/2025,Samut Prakan†,TH-11,Clade II
+918,7/28/2025,Male,MSM,27,Thai,Cambodia,,5/7/2025,Nakhon Ratchasima,TH-30,Clade II
+919,7/28/2025,Male,MSM,36,Thai,Nakhon Ratchasima,TH-30,13/7/2025,Nakhon Ratchasima,TH-30,Clade II
+920,7/30/2025,Male,MSM,35,Thai,Chonburi,TH-20,27/7/2025,Chonburi,TH-20,Clade II
+921,7/31/2025,Male,MSM,26,Thai,Nakhon Sawan,TH-60,22/7/2025,Nakhon Sawan,TH-60,Clade II
+922,8/1/2025,Male,LGBT,33,Thai,Nonthaburi,TH-12,28/7/2025,Bangkok,TH-10,Clade II
+923,8/5/2025,Male,LGBT,52,Thai,Bangkok,TH-10,30/7/2025,Chonburi,TH-20,Clade II
+924,8/5/2025,Male,MSM,25,Thai,Phuket,TH-83,19/7/2025,Nakhon Sawan,TH-60,Clade II
+925,8/7/2025,Male,NA,35,Thai,Phuket,TH-83,5/8/2025,Phuket,TH-83,Clade II
+926,8/13/2025,Male,LGBT,49,Thai,Chonburi,TH-20,5/8/2025,Chonburi,TH-20,Clade II
+927,8/16/2025,Male,LGBT,29,Thai,Nakhon Si Thammarat,TH-80,6/8/2025,Bangkok,TH-10,Clade II
+928,8/15/2025,Male,MSM,27,Thai,Chiang Mai,TH-50,15/8/2025,Chiang Mai,TH-50,Clade II
+929,8/19/2025,Male,MSM,35,Thai,Bangkok,TH-10,26/7/2025,Nonthaburi,TH-12,Clade II
+930,8/18/2025,Male,MSM,34,Thai,Khon Kaen,TH-40,16/8/2025,Khon Kaen,TH-40,Clade II
+931,8/20/2025,Male,MSM,29,Thai,Chonburi,TH-20,13/8/2025,Chonburi,TH-20,Clade II
+932,8/19/2025,Male,MSM,41,Thai,Chonburi,TH-20,18/8/2025,Chonburi,TH-20,Clade II
+933,8/22/2025,Male,MSM,27,Thai,Chonburi,TH-20,18/8/2025,Chonburi,TH-20,Clade II
+934,8/31/2025,Male,NA,33,Thai,Oman,,23/8/2025,Suphan Buri,TH-72,Clade Ib
+935,9/1/2025,Male,MSM,39,Chinese,Phuket,TH-83,11/8/2025,Phuket,TH-83,Clade II
+936,9/5/2025,Male,MSM,43,Thai,Pathum Thani†,TH-13,23/8/2025,Nonthaburi,TH-12,Clade II
+937,9/6/2025,Male,NA,32,Thai,Nonthaburi,TH-12,3/9/2025,Nonthaburi,TH-12,Clade II
+938,9/6/2025,Male,MSM,29,Thai,Ang Thong,TH-15,1/9/2025,Ang Thong,TH-15,Clade II
+939,9/5/2025,Male,MSM,22,Thai,Chonburi,TH-20,31/8/2025,Chonburi,TH-20,Clade II
+940,9/9/2025,Male,MSM,25,Russian,Phuket,TH-83,1/9/2025,Phuket,TH-83,Clade Ib
+941,9/5/2025,Male,MSM,36,Thai,Bangkok,TH-10,29/8/2025,Bangkok,TH-10,Clade II
+942,9/4/2025,Male,MSM,36,Thai,Bangkok,TH-10,31/8/2025,Bangkok,TH-10,Clade II
+943,9/3/2025,Male,MSM,26,Thai,Bangkok,TH-10,28/8/2025,Bangkok,TH-10,Clade II
+944,9/3/2025,Male,MSM,42,Thai,Bangkok,TH-10,30/8/2025,Chonburi,TH-20,Clade II
+945,9/3/2025,Male,NA,38,Thai,Bangkok,TH-10,30/8/2025,Bangkok,TH-10,Clade II
+946,9/8/2025,Male,MSM,36,Thai,Nonthaburi,TH-12,1/9/2025,Bangkok,TH-10,Clade II
+947,9/11/2025,Female,Hetero,39,Thai,Dubai,,4/9/2025,Rayong,TH-21,Clade Ib
+948,9/11/2025,Male,MSM,24,Thai,Chonburi,TH-20,3/9/2025,Chonburi,TH-20,Clade II
+949,9/14/2025,Male,NA,36,Thai,Nonthaburi,TH-12,8/9/2025,Bangkok,TH-10,Clade II
+950,9/14/2025,Male,MSM,25,Thai,Phuket,TH-83,8/9/2025,Phuket,TH-83,Clade II
+951,9/15/2025,Male,Bisexual,23,Thai,Phuket,TH-83,11/9/2025,Phuket,TH-83,Clade II
+952,9/19/2025,Male,LGBT,24,Thai,Oman,,13/9/2025,Chaiyaphum,TH-36,Clade Ib
+953,9/21/2025,Male,Bisexual,44,Thai,Bangkok,TH-10,13/9/2025,Nonthaburi,TH-12,Clade II
+954,9/22/2025,Male,MSM,22,Thai,Pathum Thani†,TH-13,14/9/2025,Pathum Thani†,TH-13,Clade II
+955,9/24/2025,Male,Hetero,36,Thai,Pathum Thani†,TH-13,2/9/2025,Pathum Thani†,TH-13,Clade II
+956,9/25/2025,Male,MSM,33,Thai,Songkhla,TH-90,18/9/2025,Songkhla,TH-90,Clade II
+957,10/3/2025,Male,MSM,25,Thai,Oman,,19/9/2025,Bangkok,TH-10,Clade Ib
+958,10/3/2025,Male,MSM,38,Thai,Bangkok,TH-10,26/9/2025,Samut Prakan†,TH-11,Clade II
+959,10/3/2025,Male,MSM,28,Thai,Samut Prakan†,TH-11,27/9/2025,Samut Prakan†,TH-11,Clade II
+960,10/6/2025,Male,MSM,35,Cambodian,Bangkok,TH-10,30/9/2025,Bangkok,TH-10,Clade II
+961,10/6/2025,Male,NA,56,Thai,Bangkok,TH-10,3/10/2025,Bangkok,TH-10,Clade II
+962,10/6/2025,Male,NA,32,Thai,Nonthaburi,TH-12,23/9/2025,Nonthaburi,TH-12,Clade II
+963,10/7/2025,Male,LGBT,27,Thai,Bangkok,TH-10,27//9/2025,Bangkok,TH-10,Clade II
+964,10/7/2025,Male,NA,26,Thai,Bangkok,TH-10,29//9/2025,Bangkok,TH-10,Clade II
+965,10/7/2025,Male,MSM,33,Colombian,Bangkok,TH-10,3/10/2025,Bangkok,TH-10,Clade II
+966,10/9/2025,Male,MSM,35,Thai,Bangkok,TH-10,8/10/2025,Bangkok,TH-10,Clade II
+967,10/7/2025,Male,MSM,26,Thai,Krabi,TH-81,17/9/2025,Krabi,TH-81,Clade II
+968,10/10/2025,Male,MSM,39,American,Bangkok,TH-10,1/10/2025,Bangkok,TH-10,Clade II
+969,10/11/2025,Male,MSM,41,Thai,Phetchaburi,TH-76,NA,Phetchaburi,TH-76,Clade II
+970,10/11/2025,Male,MSM,31,Thai,Phetchaburi,TH-76,8/10/2025,Phetchaburi,TH-76,Clade II
+971,10/15/2025,Male,NA,42,Thai,Songkhla,TH-90,NA,Songkhla,TH-90,Clade II
+972,10/14/2025,Male,Hetero,34,Russian,Chonburi,TH-20,14/10/2025,Chonburi,TH-20,Clade II
+973,9/22/2025,Male,MSM,38,Thai,Samut Songkhram,TH-75,16/9/2025,Bangkok,TH-10,Clade II
+974,9/16/2025,Male,NA,30,Thai,Samut Prakan†,TH-11,12/9/2025,Bangkok,TH-10,Clade II
+975,9/6/2025,Male,LGBT,52,Thai,Bangkok,TH-10,30/7/2025,Chonburi,TH-20,Clade II
+976,10/16/2025,Male,MSM,35,Thai,Surat Thani,TH-84,10/10/2025,Surat Thani,TH-84,Clade II
